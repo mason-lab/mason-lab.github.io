@@ -1,0 +1,12 @@
+<html class="no-js" lang="en">
+
+  <div class="row publication">
+     <div class="eight columns">{% if p.key %}<a name='{{ p.key }}'></a>{% endif %}
+     <span class="text-muted">{{forloop.rindex}}.</span>
+     {% for a in p.authors %}<span class="author {{a.type}}">{{ a.name }}</span>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
+     ({{ p.date }}).
+     {{p.title}}
+	 <i> {{ p.journal }} </i> {{ p.volume }}:{{ p.pages }}.
+     </div>
+   </div>   
+</html>
