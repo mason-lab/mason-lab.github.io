@@ -1,12 +1,78 @@
+<style>
+
+.hangingindent {
+	padding-left: 24px ;
+	text-indent: -24px ;
+}
+
+.hangingindentl10 {
+	padding-left: 16px ;
+	text-indent: -16px ;
+}
+
+/* .form-group controls spacing between rows for the bootstrap grid format */
+.form-group {
+	margin-bottom: 0px;
+}
+
+.container{
+	display: grid;
+	grid-template: auto / 80% 5%;
+	grid-auto-rows: min-content;
+	grid-gap: 10px;
+	min.width:0;
+	min.height:0;
+}
+
+.item1{
+	grid-column-start: 1;
+	grid-column-end: auto;
+	grid-row-start: 1;
+}
+
+.item2{
+	justify-self: stretch;
+	grid-row-start: 1;
+	grid-column-start: 3;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	display: block;
+	clear: both;
+}
+
+.icon {
+  position: relative;
+  /* Adjust these values accordingly */
+  top: -16px;
+  left: 5px;
+}
+
+</style>
+
 <html class="no-js" lang="en">
 
-  <div class="row publication">
-     <div class="eight columns">{% if p.key %}<a name='{{ p.key }}'></a>{% endif %}
-     <span class="text-muted">{{forloop.rindex}}.</span>
-     {% for a in p.authors %}<span class="author {{a.type}}">{{ a.name }}</span>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
-     ({{ p.date }}).
-     {{p.title}}
-	 <i> {{ p.journal }} </i> {{ p.volume }}:{{ p.pages }}.
-     </div>
-   </div>   
+	<div class="container">
+		<div class="item1">	
+			{% if forloop.rindex < 10 %} <div class="hangingindentl10"> {% else %} <div class="hangingindent"> {% endif %}
+
+			<span class="text-muted">{{forloop.rindex}}.</span>
+			{% for a in p.authors %}<span class="author {{a.type}}">{{ a.name }}</span>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
+			({{ p.date }}).
+			{{p.title}}
+			{% if p.journal %}<i> {{ p.journal }} </i>{% endif %}
+			{% if p.volume %}{{ p.volume }}:{% endif %}
+			{% if p.pages %}{{ p.pages }}.{% endif %}
+			</div>	
+		</div>
+		<div class="item2">
+			{% for lab in p.labels %}
+				{% if lab.type == "data" %}<span><a href="../resources/pdfs/{{lab.data}}"><img class="icon" src="/resources/icons/jam-master/svg/database.svg"></a></span>{% endif %}
+				{% if lab.type == "doi" %}<span><a href="{{lab.doi}}"><img class="icon" src="/resources/icons/jam-master/svg/link.svg"></a></span>{% endif %}
+				{% if lab.type == "pdf" %}<span><a href="../resources/pdfs/{{lab.pdf}}"><img class="icon" src="/resources/icons/jam-master/svg/newspaper.svg"></a></span>{% endif %}
+			{% endfor %}
+		</div>
+	</div>
+
 </html>
+

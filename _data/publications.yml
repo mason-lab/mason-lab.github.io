@@ -1,5 +1,5 @@
 - title: "Sixty-first supplement to the American Ornithological Society's Check-list of North American Birds."
-  key: sixtyfirst
+  key: sixtyfirstnacc
   authors:
     - name: RT Chesser
     - name: SM Billerman
@@ -15,23 +15,148 @@
     - name: DF Stotz
     - name: K Winker
   date: 2020
-  journal: "Auk: Ornithological Advances"
+  journal: "The Auk: Ornithological Advances"
   volume: 137
   pages: 1–24
   labels:
     - type: pdf
-      pdf: Dallas2019JAE.pdf
-    - type: data
-      data: https://doi.org/10.6084/m9.figshare.7667096.v1
+      pdf: "Chesser et al (2020) The Auk.pdf"
     - type: doi
-      doi: 10.1111/1365-2656.13141
+      doi: "https://doi.org/10.1093/auk/ukaa030"
 
-- title: "Species identification of vagrant <i>Empidonax</i> flycatchers in
-northeastern North America via non-invasive DNA sequencing."
+- title: "Behavioral, morphological, and ecological trait evolution in two clades of New World Sparrows (<i>Aimophila</i> and <i>Peucaea</i>, Passerellidae)."
+  key: sparrowevo
+  authors:
+    - name: C Cicero
+    - name: NA Mason
+      type: pi
+    - name: LS Benedict
+    - name: JD Rising
+  date: 2020
+  journal: "PeerJ"
+  volume: 8
+  pages: e9249
+  labels:
+    - type: pdf
+      pdf: "Cicero et al (2020) PeerJ.pdf"
+    - type: doi
+      doi:  "https://doi.org/10.7717/peerj.9249"
+      
+- title: "Geographic sampling and isolation by distance impact coalescent-based species delimitation)."
+  key: coalescentsampling
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: NK Fletcher
+    - name: B Gill
+    - name: C Funk
+    - name: K Zamudio
+  date: 2020
+  journal: "Systematics and Biodiversity"
+  volume: 18
+  pages: 269–280
+  labels:
+    - type: pdf
+      pdf: "Mason et al (2020) Systematics and Biodiversity.pdf"
+    - type: doi
+      doi:  "https://doi.org/10.6078/D1Z41Q"   
+ 
+- title: "<i>De novo</i> assembly of a high-quality reference genome for the Horned Lark (<i>Eremophila alpestris</i>)."
+  key: holagenome
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: P Pulgarin
+    - name: CD Cadena
+    - name: IJ Lovette
+  date: 2020
+  journal: "G3: Genes, Genomes, Genetics"
+  volume: 10
+  pages: 475–478
+  labels:
+    - type: pdf
+      pdf: "Mason et al (2020) G3GenesGenomesGenetics.pdf"
+    - type: doi
+      doi:  "https://doi.org/10.1534/g3.119.400846"   
+     
+- title: "Cognitive and social benefits among underrepresented first-year biology students in a field course: a qualitative case study of experiential learning in the Galápagos."
+  key: ivcolor
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: R Brunner
+    - name: MC Ballen
+    - name: IJ Lovette
+  date: 2018
+  journal: "Frontiers: International Journal of Study Abroad"
+  volume: 30
+  pages: 1–19
+  labels:
+    - type: pdf
+      pdf: "Mason et al (2018) Frontiers International Journal of Study Abroad.pdf"
+    - type: doi
+      doi:  "https://doi.org/10.36366/frontiers.v30i3.422"    
+
+- title: "Contrasting impacts of competition on ecological and social trait evolution in songbirds."
+  key: druryplosbio
+  authors:
+    - name: JP Drury
+    - name: JA Tobias
+    - name: KJ Burns
+    - name: NA Mason
+      type: pi
+    - name: AJ Shultz
+    - name: H Morlon
+  date: 2018
+  journal: "PLoS Biology"
+  volume: 16
+  pages: e2003563
+  labels:
+    - type: pdf
+      pdf: "Drury et al (2018) PLOS Biology.pdf"
+    - type: doi
+      doi:  "https://doi.org/10.1371/journal.pbio.2003563"      
+
+- title: "Rapid phenotypic change in a native bird population following conversion of the Colorado Desert to agriculture."
+  key: ivcolor
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: P Unitt
+  date: 2018
+  journal: "Journal of Avian Biology"
+  volume: 49
+  pages: e01507
+  labels:
+    - type: pdf
+      pdf: "Mason & Unitt (2018) Journal of Avian Biology.pdf"
+    - type: doi
+      doi:  "https://doi.org/10.1002/ece3.3799"
+    - type: data
+      data: "http://dx.doi.org/10.5061/dryad.708k0"
+      
+- title: "Hidden endemism, deep polyphyly, and repeated dispersal across the Isthmus of Tehuantepec: Diversification of the white-collared seedeater complex (<i>Sporophila torqueola</i>)."
+  key: torqueola
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: A Olvera-Vital
+    - name: IJ Lovette
+    - name: AG Navarro-Sigüenza
+  date: 2018
+  journal: "Ecology and Evolution"
+  volume: 8
+  pages: 1867–1881
+  labels:
+    - type: pdf
+      pdf: "Mason et al (2018) Ecology and Evolution.pdf"
+    - type: doi
+      doi:  "https://doi.org/10.1002/ece3.3799"
+      
+- title: "Species Identification of Vagrant <i>Empidonax</i> Flycatchers in Northeastern North America Via Non-Invasive DNA Sequencing"
   key: empidonax
   authors:
     - name: NR Goldberg
-      type: undergradauthor
     - name: NA Mason
       type: pi
   date: 2017
@@ -40,983 +165,340 @@ northeastern North America via non-invasive DNA sequencing."
   pages: 499–504
   labels:
     - type: pdf
-      pdf: Dallas2019JAE.pdf
-    - type: data
-      data: https://doi.org/10.6084/m9.figshare.7667096.v1
+      pdf: "Goldberg & Mason (2017) Northeastern Naturalist.pdf"
+      
+- title: "Integrating museum and media collections to study vocal ecology and evolution. Pp. 57–74 <i>in</i> M. S. Webster (editor), The Extended Specimen: Emerging Frontiers in Collections-Based Ornithological Research. Studies in Avian Biology (no. 50), CRC Press, Boca Raton, FL."
+  key: extendedspecimen
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: B Pasch
+    - name: KJ Burns
+    - name: EP Derryberry
+  date: 2017
+  journal:
+  volume:
+  pages:
+  labels:
+    - type: pdf
+      pdf: "Mason et al (2017) The Extended Specimen Emerging Frontiers in Collections-Based Ornithological Research.pdf"
+      
+- title: "Longitudinal analysis of a diversity support program in STEM: a national call for further assessment."
+  key: bsp
+  authors:
+    - name: MC Ballen
+    - name: NA Mason
+      type: pi
+  date: 2017
+  journal: "BioScience"
+  volume: 67
+  pages: 367–373
+  labels:
+    - type: pdf
+      pdf: "Ballen & Mason (2017) BioScience.pdf"
     - type: doi
-      doi: 10.1111/1365-2656.13141
-          
-#- title: "Variability in dispersal and spatial spread in two-species communities"
-#  key: dispersalTrait
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: B Melbourne
-#    - name: A Hastings
-#  date: 2020
-#  journal: J Animal Ecology
-#  labels:
-#    - type: pdf
-#      pdf: 
-#    - type: doi
-#      doi: 
-#
-#- title: "What determines parasite species richness across host species?"
-#  key: inFocus
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: L Holian
-#    - name: G Foster
-#  date: 2020
-#  journal: J Animal Ecology
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2020JAE.pdf
-#    - type: doi
-#      doi: http://dx.doi.org/10.1111/1365-2656.13276 
-#
-#
-#- title: "The influence of stochasticity, landscape structure, and species traits on abundant-centre relationships"
-#  key: rangeShape2
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: L Santini
-#  date: 2020
-#  journal: Ecography
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2020Ecography.pdf
-#    - type: doi
-#      doi: 10.1111/ecog.05164
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.11553534.v1
-#
-#- title: "The abundant-centre is not all that abundant: a comment to Osorio-Olvera et al. 2020"
-#  key: osorioComment
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: L Santini
-#  date: 2020
-#  journal: bioRxiv
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2020comment.pdf
-#    - type: doi
-#      doi: 10.1101/2020.02.27.968586
-#    - type: data
-#      data: 
-#
-#
-#- title: "Predicting wildlife hosts of betacoronaviruses for SARS-CoV-2 sampling prioritization"
-#  key: betacov
-#  authors:
-#    - name: D Becker
-#    - name: GF Albery
-#    - name: AR Sjodin
-#    - name: T Poisot
-#    - name: T Dallas
-#      type: pi
-#    - name: EA Eskew
-#    - name: MJ Farrell
-#    - name: S Guth
-#    - name: BA Han 
-#    - name: NB Simmons
-#    - name: CJ Carlson
-#  date: 2020
-#  journal: bioRxiv
-#  labels:
-#    - type: pdf
-#      pdf: Becker2020.pdf
-#    - type: doi
-#      doi: 10.1101/2020.05.22.111344
-#    - type: data
-#      data: github.com/viralemergence/Fresnel
-#
-#
-#- title: "Spatial synchrony is related to the rate of environmental change in Finnish moth communities"
-#  key: mothSync
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: LH Antao
-#    - name: J Pöyry
-#    - name: R Leinonen
-#    - name: O Ovaskainen
-#  date: 2020
-#  journal: Proceedings of the Royal Society B
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2020PRSB.pdf
-#    - type: doi
-#      doi: 10.1098/rspb.2020.0684
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.9036941.v1
-#
-#- title: "Summer drought decreases the predictability of local extinctions in a butterfly metapopulation"
-#  key: aland2020
-#  authors:
-#    - name: E Van Bergen
-#    - name: T Dallas
-#      type: pi
-#    - name: M Dileo
-#    - name: AO Kahilainen
-#    - name: A Mattila 
-#    - name: MS Luoto
-#    - name: M Saastamoinen
-#  date: 2020
-#  journal: Conservation Biology
-#  labels:
-#    - type: pdf
-#      pdf: vanBergen2020.pdf
-#    - type: preprint
-#      preprint:  https://doi.org/10.1101/863795
-#
-#
-#- title: "What would it take to describe the global diversity of parasites?"
-#  key: carlson2020
-#  authors:
-#    - name: C Carlson
-#    - name: AJ Phillips
-#    - name: T Dallas
-#      type: pi
-#    - name: LW Alexander
-#    - name: A Phelan
-#    - name: S Bansal
-#  date: 2020
-#  journal: 
-#  labels:
-#    - type: pdf
-#      pdf: carlson2020.pdf
-#    - type: preprint
-#      preprint: https://doi.org/10.1101/815902
-#
-#- title: "Environmental biases in the study of ecological networks at the planetary scale"
-#  key: poisot2020
-#  authors:
-#    - name: T Poisot
-#    - name: G Bergeron
-#    - name: K Cazelles
-#    - name: T Dallas
-#      type: pi
-#    - name: D Gravel
-#    - name: A MacDonald
-#    - name: B Mercier
-#    - name: S Vissault
-#  date: 2020
-#  journal: 
-#  labels:
-#    - type: pdf
-#      pdf: poisot2020.pdf
-#    - type: preprint
-#      preprint: https://doi.org/10.1101/2020.01.27.921429
-#    - type: data
-#      data: https://github.com/PoisotLab/MangalSamplingStatus
-#
-#
-#- title: "The relative importance of local and regional processes to metapopulation dynamics"
-#  key: alandOcc
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: M Saastamoinen
-#    - name: T Schulz
-#    - name: O Ovaskainen
-#  date: 2019
-#  journal: Journal of Animal Ecology
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2019JAE.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.7667096.v1
-#    - type: doi
-#      doi: 10.1111/1365-2656.13141
-#
-#- title: "Testing predictability of disease outbreaks with a simple model of pathogen biogeography"
-#  key: emergence
-#  open: true
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: CJ Carlson
-#    - name: T Poisot
-#  date: 2019
-#  journal: Royal Society Open Science
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2019RSOS.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.6364955
-#    - type: doi
-#      doi: 10.1098/rsos.190883
-#
-#- title: "Detecting parasite associations within multi-species host and parasite communities"
-#  key: hmscMouse
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: A-L Laine
-#    - name: O Ovaskainen
-#  date: 2019
-#  journal: Proceedings of the Royal Society B
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2019PRSB.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.6865247
-#    - type: doi
-#      doi: 10.1098/rspb.2019.1109
-#
-#- title: "Temporal sampling and abundance measurement influences support for occupancy–abundance relationships"
-#  key: abundOcc
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: J Pöyry
-#    - name: R Leinonen
-#    - name: O Ovaskainen
-#  date: 2019
-#  journal: Journal of Biogeography
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2019JBiogeog.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.7406348.v1
-#    - type: doi
-#      doi: 10.1111/jbi.13718
-#
-#- title: "A comprehensive evaluation of predictive performance of 33 species distribution models at species and community levels"
-#  key: bakeOff
-#  authors:
-#    - name: A Norberg 
-#    - name: N Abrego Antia
-#    - name: F Guillaume Blanchet
-#    - name: FR Adler
-#    - name: BJ Anderson
-#    - name: J Anttila
-#    - name: MB Araújo
-#    - name: T Dallas
-#      type: pi
-#    - name: D Dunson
-#    - name: J Elith
-#    - name: S Foster
-#    - name: R Fox
-#    - name: J Franklin
-#    - name: W Godsoe
-#    - name: A Guisan
-#    - name: B O'Hara
-#    - name: NA Hill
-#    - name: RD Holt
-#    - name: FKC Hui
-#    - name: M Husby
-#    - name: JA Kålås
-#    - name: A Lehikoinen
-#    - name: M Luoto
-#    - name: HK Mod
-#    - name: G Newell
-#    - name: I Renner
-#    - name: TV Roslin
-#    - name: J Soininen
-#    - name: W Thuiller
-#    - name: JP Vanhatalo
-#    - name: D Warton
-#    - name: M White
-#    - name: NE Zimmermann
-#    - name: D Gravel
-#    - name: OT Ovaskainen
-#  date: 2019
-#  journal: Ecological Monographs
-#  labels:
-#    - type: pdf
-#      pdf: Norberg2019.pdf
-#    - type: data
-#      data: https://zenodo.org/record/2637812#.XcNd4nVKhhE
-#    - type: doi
-#      doi: 10.1002/ecm.1370
-#
-#
-#- title: "Do feather traits convey information about bird condition during fall migration?"
-#  key: birbPaper
-#  authors:
-#    - name: Cornelius Ruhs, E
-#    - name: Borden, DM
-#    - name: T Dallas
-#      type: pi
-#    - name: Pitman, E
-#  date: 2019
-#  journal: Wilson Journal of Ornithology
-#  labels:
-#    - type: pdf
-#      pdf: Cornelius2019Wilson.pdf
-#    - type: doi
-#      doi: 10.1676/18-174
-#
-#- title: "Contrasting latitudinal gradients of body size in helminth parasites and their hosts"
-#  key: helmSize
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Gehman, AL 
-#    - name: Aguirre, AA
-#    - name: Budischak, SA
-#    - name: Drake, JM
-#    - name: Farrell, MJ
-#    - name: Ghai, R
-#    - name: Huang, S
-#    - name: Morales-Castilla, I
-#  date: 2019
-#  journal: Global Ecology and Biogeography
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2019GEB.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.6406823
-#    - type: doi
-#      doi: 10.1111/geb.12894
-#
-#- title: "Host traits associated with species roles in parasite sharing networks"
-#  key: nodeProperties
-#  open: true
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Han, BA
-#    - name: Nunn, CL
-#    - name: Park, AW
-#    - name: Stevens, PR
-#    - name: Drake, JM
-#  date: 2019
-#  journal: Oikos
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2019Oikos.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.5129980.v2
-#    - type: doi
-#      doi: 10.1111/oik.05602
-#
-#
-#- title: "When can competition and dispersal lead to checkerboard distributions?"
-#  key: checkerboard
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Melbourne, BA
-#    - name: Hastings, A
-#  date: 2018
-#  journal: Journal of Animal Ecology
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2018JANE.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.6839918.v2
-#    - type: doi
-#      doi: 10.1111/1365-2656.12913
-#
-#- title: "Habitat suitability estimated by niche models is largely unrelated to species abundance"
-#  key: abundanceSDM
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Hastings, A
-#  date: 2018
-#  journal: Global Ecology and Biogeography
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2018GEB.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.6026777
-#    - type: doi
-#      doi: 10.1111/geb.12820
-#
-#- title: "Gauging support for macroecological patterns in helminth parasites"
-#  key: macroHelminth
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Aguirre, AA
-#    - name: Budischak, S
-#    - name: Carlson, C
-#    - name: Ezenwa, VO
-#    - name: Han, BA
-#    - name: Huang, S
-#    - name: Stevens, PR
-#  date: 2018
-#  journal: Global Ecology and Biogeography
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2018GEB2.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.6221987
-#    - type: doi
-#      doi: 10.1111/geb.12819
-#
-#- title: "Multiple data sources and freely available code is critical when investigating species distributions and diversity: a response to Knouft (2018)"
-#  key: rangeShape2
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Decker, R
-#    - name: Hastings, A
-#  date: 2018
-#  journal: Ecology Letters
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2018comment.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.6444608.v1
-#    - type: doi
-#      doi: 10.1111/ele.13105
-#
-#
-#- title: "Variable Bibliographic Database Access Could Limit Reproducibility"
-#  key: wosFail
-#  open: false
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Gehman, AL
-#    - name: Farrell, MJ
-#  date: 2018
-#  journal: BioScience
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2018BioScience.pdf
-#    - type: doi
-#      doi: 10.1093/biosci/biy074
-#
-#
-#- title: "Characterizing the phylogenetic specialism-generalism spectrum of mammal parasites"
-#  key: phyloSpecial
-#  open: false
-#  authors:
-#    - name: AW Park
-#    - name: Farrell, MJ
-#    - name: Schmidt, JP
-#    - name: Huang, S
-#    - name: T Dallas
-#      type: pi
-#    - name: Pappalardo, P 
-#    - name: Drake, JM
-#    - name: Stephens, PR
-#    - name: Poulin, R
-#    - name: Nunn, CL
-#    - name: Davies, TJ
-#  date: 2018
-#  journal: Proceedings of the Royal Society B
-#  labels:
-#    - type: pdf
-#      pdf: park2018.pdf
-#    - type: data
-#      data: https://github.com/awpark/RCN_dimgen
-#    - type: doi
-#      doi: 10.1098/rspb.2017.2613
-#
-#- title: "Spatial extinction date estimation: a novel method for reconstructing spatiotemporal patterns of extinction and identifying potential zones of rediscovery"
-#  key: threshold
-#  open: true
-#  authors:
-#    - name: C Carlson
-#    - name: Burgio, K
-#    - name: Dallas, T
-#      type: pi
-#    - name: Bond, AL
-#  date: 2018
-#  journal: in review
-#  labels:
-#    - type: pdf
-#      pdf: Carlson2018.pdf
-#    - type: data
-#      data: https://github.com/cjcarlson/spatExtinct
-#    - type: preprint
-#      preprint: http://dx.doi.org/10.1101/279679
-#
-#- title: "Experimental evidence of pathogen invasion threshold"
-#  key: threshold
-#  open: true
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Krkosek, M
-#    - name: Drake, J
-#  date: 2018
-#  journal: Royal Society Open Science
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2018RSOS.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.5133001
-#    - type: doi
-#      doi: 10.1098/rsos.171975
-#
-#
-#
-#- title: "Compositional turnover in host and parasite communities does not change network structure"
-#  key: graphDissim
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Poisot, T
-#  date: 2017
-#  journal: Ecography
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2018Ecography.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.5174413
-#    - type: doi
-#      doi: 10.1111/ecog.03514
-#
-#
-#
-#- title: "Species are not most abundant in the center of their geographic range or climatic niche"
-#  key: rangeShape
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Decker, R
-#    - name: Hastings, A
-#  date: 2017
-#  journal: Ecology Letters
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2017EcologyLetters.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.5023232
-#    - type: doi
-#      doi: 10.1111/ele.12860
-#
-#- title: "The Parasite Extinction Assessment and Red List -- an open-source, online biodiversity database for neglected symbionts"
-#  key: parasiteRedList
-#  open: true
-#  authors:
-#    - name: C. Carlson
-#    - name: Muellerklein, O
-#    - name: Phillips, AJ
-#    - name: Burgio, KR
-#    - name: Castaldo, G 
-#    - name: Cizauskas, CA
-#    - name: Cumming, GS
-#    - name: Dallas, T
-#      type: pi
-#    - name: Dona, J
-#    - name: Harris, N
-#    - name: Jovani, R
-#    - name: Miao, Z
-#    - name: Proctor, H
-#    - name: Yoon, HS
-#    - name: Getz, W
-#  date: 2017 
-#  journal: 
-#  labels:
-#    - type: preprint
-#      preprint: https://doi.org/10.1101/192351
-#
-#- title: "The mathematics of extinction across scales -- from populations to the biosphere"
-#  key: mathExtinction
-#  open: true
-#  authors:
-#    - name: C Carlson
-#    - name: Burgio, K
-#    - name: Dallas, T
-#      type: pi
-#    - name: Getz, W
-#  date: 2017 
-#  journal: Mathematics of Planet Earth -- Quantitative Approaches to Issues of Current Interest
-#  labels:
-#    - type: preprint
-#      preprint: http://dx.doi.org/10.7287/peerj.preprints.3367v1
-#
-#
-#- title: "Parasite biodiversity faces extinction and redistribution in a changing climate"
-#  key: parEx
-#  authors:
-#    - name: C Carlson
-#    - name: Burgio, KR
-#    - name: Dougherty, ER
-#    - name: Phillips, AJ
-#    - name: Bueno, VM
-#    - name: Clements, CF
-#    - name: Castaldo, G
-#    - name: Dallas, T
-#      type: pi
-#    - name: Cizauskas, CA
-#    - name: Cumming, GS
-#    - name: Doña, J
-#    - name: Harris, NC
-#    - name: Jovani, R
-#    - name: Mironov, S
-#    - name: Muellerklein, OC
-#    - name: Proctor, HC
-#    - name: Getz, WM
-#  date: 2017
-#  journal: Science Advances
-#  labels:
-#    - type: pdf
-#      pdf: Carlson2017.pdf
-#    - type: press
-#      press: https://www.nytimes.com/2017/09/13/science/parasites-extinction-climate-change.html
-#    - type: doi
-#      doi:  10.1126/sciadv.1602422
-#
-#
-#- title: "Estimating parasite host range"
-#  key: hostRange
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Huang, S
-#    - name: Nunn, CL
-#    - name: Park, AW
-#    - name: Drake, JM
-#  date: 2017
-#  journal: Proceedings of the Royal Society B
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2017PRSB.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.5072665.v1 
-#    - type: doi
-#      doi: 10.1098/rspb.2017.1250
-#
-#- title: "Predicting cryptic links in host-parasite networks"
-#  key: missingLinks
-#  open: true
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Park, AW
-#    - name: Drake, JM
-#  date: 2017
-#  journal: PLoS Computational Biology
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2017plos.pdf
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.4965038.v1
-#    - type: doi
-#      doi: 10.1371/journal.pcbi.1005557
-#
-#
-#- title: "Predictability of helminth parasite host range using information on geography, host traits and parasite community structure"
-#  key: fishParasite
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Park, AW
-#    - name: Drake, JM
-#  date: 2017
-#  journal: Parasitology
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2016Helminth.pdf
-#    - type: data
-#      data: https://figshare.com/s/dca7736c0829267a890e
-#    - type: doi
-#      doi: 10.1017/S0031182016001608
-#
-#
-#- title: "Data-driven identification of potential Zika virus vectors"
-#  key: zika
-#  open: true
-#  authors:
-#    - name: M Evans
-#    - name: Dallas, T
-#      type: pi
-#    - name: Han, B
-#    - name: Murdock, CC
-#    - name: Drake, JM
-#  date: 2016
-#  journal: eLife
-#  labels:
-#    - type: press
-#      press: http://www.ecology.uga.edu/newsItem.php?More_mosquito_species_than_previously_thought_may_transmit_Zika-426/
-#    - type: preprint
-#      preprint: http://biorxiv.org/content/early/2016/09/27/077966
-#    - type: data
-#      data: https://doi.org/10.6084/m9.figshare.4042488.v1
-#    - type: doi
-#      doi: 10.7554/eLife.22053
-#
-#- title: "Ordination obscures the influence of environment on plankton metacommunity structure"
-#  key: srsMetacom
-#  open: true
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Kramer, A
-#    - name: Zokan, M
-#    - name: Drake, JM
-#  date: 2016
-#  journal: Limnology and Oceanography Letters
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2016SRS.pdf
-#    - type: data
-#      data: https://dx.doi.org/10.6084/m9.figshare.3715272.v1
-#    - type: doi
-#      doi: 10.1002/lol2.10028
-#
-#- title: "Fluctuating temperatures alter environmental pathogen transmission in a <i>Daphnia</i>-pathogen system"
-#  key: tempVarInfection
-#  open: true
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#    - name: Drake, JM
-#  date: 2016
-#  journal: Ecology and Evolution
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2016TempVar.pdf
-#    - type: data
-#      data: https://figshare.com/s/dca7736c0829267a890e
-#    - type: doi
-#      doi: 10.1002/ece3.2539
-#
-#- title:  "The Macroecology of Infectious Diseases: A New Perspective on Global-scale Drivers of Pathogen Distributions and Impacts"
-#  key: diseaseMacro
-#  open: true
-#  authors:
-#    - name: P. Stephens
-#    - name: Altizer, S
-#    - name: Smith, K
-#    - name: Aguirre, A
-#    - name: Brown, J
-#    - name: Budischak, S
-#    - name: Byers, J
-#    - name: Dallas, T
-#      type: pi
-#    - name: Davies, J
-#    - name: Drake, J
-#    - name: Ezenwa, V
-#    - name: Farrell, M
-#    - name: Gittleman, J
-#    - name: Han, B
-#    - name: Huang, S
-#    - name: Hutchinson, R
-#    - name: Johnson, P
-#    - name: Nunn, C
-#    - name: Onstad, D
-#    - name: Park, A
-#    - name: Vazquez-Prokopec, G
-#    - name: Schmidt, J
-#    - name: Poulin, R
-#  date: 2016
-#  journal: Ecology Letters
-#  labels:
-#    - type: pdf
-#      pdf: diseaseMacro.pdf
-#    - type: doi
-#      doi: 10.1111/ele.12644
-#
-#- title: "helminthR: An R interface to the London Natural History Museum's Host-Parasite Database"
-#  key: helminthR
-#  open: true
-#  authors:
-#    - name: T Dallas
-#      type: pi
-#  date: 2016
-#  journal: Ecography
-#  labels:
-#    - type: pdf
-#      pdf: Dallas2016helminthR.pdf
-#    - type: github
-#      github: https://github.com/ropensci/helminthR
-#    - type: doi
-#      doi: 10.1111/ecog.02131
-#
-#- title: "Competition-mediated feedbacks in experimental multi-species epizootics"
-#  key: comp
-#  authors:
-#      - name: T Dallas
-#        type: pi
-#      - name: Hall, R
-#      - name: Drake, JM
-#  date: 2016
-#  journal: Ecology
-#  labels:
-#      - type: pdf
-#        pdf: Dallas2016Competition.pdf
-#      - type: data
-#        data: https://dx.doi.org/10.6084/m9.figshare.3159349.v1
-#      - type: doi
-#        doi: 10.1890/15-0305.1
-#
-#- title: "Costs of resistance and infection by a generalist pathogen"
-#  key: costs
-#  open: true
-#  authors:
-#      - name: T Dallas
-#        type: pi
-#      - name: Holtackers, M
-#        type: student
-#      - name: Drake, JM
-#  date: 2016
-#  journal: Ecology and Evolution
-#  labels:
-#      - type: pdf
-#        pdf: Dallas2016Costs.pdf
-#      - type: data
-#        data: http://dx.doi.org/10.5061/dryad.20234
-#      - type: doi
-#        doi: 10.1002/ece3.1889
-#
-#- title: "Vector species richness increases hemorrhagic disease prevalence through functional diversity modulating the duration of seasonal transmission"
-#  key: park
-#  authors:
-#      - name: AW Park
-#      - name: Cleveland, C
-#        type: student
-#      - name: Dallas, T
-#        type: pi
-#      - name: Corn, J
-#  date: 2015
-#  journal: Parasitology
-#  labels:
-#      - type: pdf
-#        pdf: park2015.pdf
-#      - type: doi
-#        doi: 10.1017/S0031182015000578
-#
-#- title: "Co-extinction in a host-parasite network: identifying key hosts for network stability"
-#  key: fishnest
-#  open: true
-#  authors:
-#      - name: T Dallas
-#        type: pi
-#      - name: Cornelius, E
-#  date: 2015
-#  journal: Nature Scientific Reports
-#  labels:
-#      - type: pdf
-#        pdf: fishNest2015.pdf
-#      - type: doi
-#        doi: 10.1038/srep13185
-#
-#- title: "Phylogenetic signals in host-parasite associations for Neotropical bats and Nearctic desert rodents"
-#  key: phyloParasites2015
-#  authors:
-#      - name: SJ Presley
-#      - name: Dallas, T
-#        type: pi
-#      - name: Klingbeil, BT
-#      - name: Willig, MR
-#  date: 2015
-#  journal: Biological Journal of the Linnean Society
-#  labels:
-#      - type: pdf
-#        pdf: phyloParasites2015.pdf
-#      - type: data
-#        data: http://datadryad.org/resource/doi:10.5061/dryad.bp62d
-#      - type: doi
-#        doi: 10.1111/bij.12601
-#
-#- title: "Relative Importance of Environmental, Geographic, and Spatial Variables on Zooplankton Metacommunities"
-#  key: ELSmetacom
-#  open: true
-#  authors:
-#      - name: T Dallas
-#        type: pi
-#      - name: Drake, JM
-#  date: 2014
-#  journal: Ecosphere
-#  labels:
-#      - type: pdf
-#        pdf: ELSmetacom.pdf
-#      - type: doi
-#        doi: 10.1890/ES14-00071.1
-#
-#- title: "metacom: an R package for the analysis of metacommunity structure"
-#  key: metacom
-#  open: true
-#  authors:
-#      - name: T Dallas
-#        type: pi
-#  date: 2014
-#  journal: Ecography
-#  labels:
-#      - type: pdf
-#        pdf: metacomnote.pdf
-#      - type: doi
-#        doi: 10.1111/j.1600-0587.2013.00695.x
-#      - type: code
-#        code: https://github.com/taddallas/metacom
-#
-#- title: "Relative importance of host environment, transmission potential, and host phylogeny to the structure of parasite metacommunities"
-#  key: sevMetacom
-#  open: true
-#  authors:
-#      - name: T Dallas
-#        type: pi
-#      - name: Presley, SJ
-#  date: 2014
-#  journal: Oikos
-#  labels:
-#      - type: pdf
-#        pdf: sev_metacom.pdf
-#      - type: doi
-#        doi: 10.1111/oik.00707
-#
-#- title: "Model selection criteria for count data with overdispersion and its application to the host-parasite relationship"
-#  key: modselect
-#  authors:
-#      - name: HJ Kim
-#      - name: Cavanaugh, JE
-#      - name: Dallas, T
-#        type: pi
-#      - name: Fore, S
-#  date: 2014
-#  journal: Environmental and Ecological Statistics
-#  labels:
-#      - type: pdf
-#        pdf: modselect.pdf
-#      - type: doi
-#        doi: 10.1007/s10651-013-0257-0
-#
-#- title: "Nitrate enrichment alters a Daphnia-microparasite interaction through multiple pathways"
-#  key: nitrate
-#  open: true
-#  authors:
-#      - name: T Dallas
-#        type: pi
-#      - name: Drake, JM
-#  date: 2013
-#  journal: Ecology and Evolution
-#  labels:
-#      - type: pdf
-#        pdf: nitrate.pdf
-#      - type: doi
-#        doi: 10.1002/ece3.925
-#
-#- title: "Chemical attraction of Dermacentor variabilis ticks parasitic to Peromyscus leucopus based on host body mass and sex"
-#  key: chemAttract
-#  authors:
-#      - name: T Dallas
-#        type: pi
-#      - name: Fore, S
-#  date: 2013
-#  journal: Experimental and Applied Acarology
-#  labels:
-#      - type: pdf
-#        pdf: chemattract.pdf
-#      - type: doi
-#        doi: 10.1007/s10493-013-9690-x
-#
-#- title: "Modeling the influence of Peromyscus leucopus body mass, sex and habitat on immature Dermacentor variabilis burdens"
-#  key: pldvfield
-#  open: true
-#  authors:
-#      - name: T Dallas
-#        type: pi
-#      - name: Fore, S
-#      - name: Kim, HJ
-#  date: 2013
-#  journal: Journal of Vector Ecology
-#  labels:
-#      - type: pdf
-#        pdf: pldvfield.pdf
-#      - type: doi
-#        doi: 10.1111/j.1948-7134.2012.00236.x
+      doi: "https://doi.org/10.1093/biosci/biw187"
+
+- title: "Song evolution, speciation, and vocal learning in passerine birds."
+  key: songevolution
+  authors:
+    - name: NA Mason
+      type: pi 
+    - name: KJ Burns
+    - name: N Seddon
+    - name: J Tobias
+    - name: S Claramunt
+    - name: EP Derryberry
+  date: 2017
+  journal: "Evolution"
+  volume: 124
+  pages: 175–181
+  labels:
+    - type: pdf
+      pdf: "Mason et al (2017) Evolution.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1111/evo.13159"
+    - type: data
+      data: "https://doi.org/10.5061/dryad.r99p7"
+
+- title: "Effects of wind, ambient temperature, and sun position on damselfly flight activity and perch orientation."
+  key: enallagma
+  authors:
+    - name: NA Mason
+      type: pi 
+  date: 2017
+  journal: "Animal Behaviour"
+  volume: 124
+  pages: 175–181
+  labels:
+    - type: pdf
+      pdf: "Mason (2017) Animal Behaviour.pdf"
+    - type: doi
+      doi: "http://dx.doi.org/10.1016/j.anbehav.2016.12.025"
+    - type: data
+      data: "http://dx.doi.org/10.7910/DVN/LQNCBW"
+
+- title: "Evolutionary innovation and diversification of carotenoid-based pigmentation in finches."
+  key: finchcarotenoid
+  authors:
+    - name: R Ligon
+    - name: R Simpson 
+    - name: NA Mason
+      type: pi 
+    - name: G Hill
+    - name: K McGraw
+  date: 2016
+  journal: "Evolution"
+  volume: 70
+  pages: 2839–2852
+  labels:
+    - type: pdf
+      pdf: "Ligon et al (2016) Evolution.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1642/AUK-16-108.1"
+
+      
+- title: "Membership trends in the American Ornithologists’ Union and the evolving role of professional ornithological societies."
+  key: aoumember
+  authors:
+    - name: NA Mason
+      type: pi 
+    - name: MW Butler 
+    - name: JC Owen
+  date: 2016
+  journal: "The Auk: Ornithological Advances"
+  volume: 133
+  pages: 806–811
+  labels:
+    - type: pdf
+      pdf: "Mason et al (2016) The Auk.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1642/AUK-16-108.1"
+      
+- title: "Phenotypes in phylogeography: species’ traits, environmental variation, and vertebrate diversification."
+  key: phenophylogeo
+  authors:
+    - name: K Zamudio
+    - name: RC Bell  
+    - name: NA Mason
+      type: pi 
+  date: 2016
+  journal: "Proceedings of the National Academy of Sciences"
+  volume: 113
+  pages: 8041–8048
+  labels:
+    - type: pdf
+      pdf: "Zamudio et al (2016) Proceedings of the National Academy of Sciences.pdf"
+    - type: doi
+      doi: "www.pnas.org/cgi/doi/10.1073/pnas.1602237113"
+        
+- title: "A genus-level classification of the family Thraupidae (Class Aves: Order Passeriformes)."
+  key: tanagergenera
+  authors:
+    - name: KJ Burns
+    - name: P Unitt  
+    - name: NA Mason
+      type: pi 
+  date: 2016
+  journal: "Zootaxa"
+  volume: 4088
+  pages: 329–354
+  labels:
+    - type: pdf
+      pdf: "Burns et al (2016) Zootaxa.pdf"
+    - type: doi
+      doi: "https://doi.org/10.11646/zootaxa.4088.3.2"
+      
+- title: "Genomic approaches to understanding population divergence and speciation in birds."
+  key: birdgenomics
+  authors:
+    - name: DPL Toews
+    - name: L Campagna
+    - name: SA Taylor
+    - name: CN Balakrishnan
+    - name: DT Baldassarre
+    - name: PE Deane-Coe
+    - name: MG Harvey
+    - name: DM Hooper
+    - name: DE Irwin    
+    - name: CD Judy    
+    - name: NA Mason
+      type: pi
+    - name: JE McCormack    
+    - name: KG McCracken    
+    - name: CH Oliveros    
+    - name: RJ Safran    
+    - name: E Scordato  
+    - name: KF Styjewski    
+    - name: A Tigano    
+    - name: AJ Uy    
+    - name: B Winger    
+  date: 2016
+  journal: "The Auk: Ornithological Advances"
+  volume: 133
+  pages: 13–30
+  labels:
+    - type: pdf
+      pdf: "Toews et al (2016) The Auk.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1642/AUK-15-51.1"
+
+- title: "The geographic distribution of a tropical montane bird is limited by a tree: Acorn Woodpeckers (<i>Melanerpes formicivorus</i>) and Colombian Oaks (<i>Quercus humboldtii</i>) in the northern Andes."
+  key: formicivorus
+  authors:
+    - name: BG Freeman
+    - name: NA Mason
+      type: pi
+  date: 2015
+  journal: "PLoS One"
+  volume: 10
+  pages: e0128675
+  labels:
+    - type: pdf
+      pdf: "Freeman & Mason (2015) PLOS ONE.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1371/journal.pone.0128675"
+      
+- title: "Differentially expressed genes match bill morphology and plumage despite largely undifferentiated genomes in a Holarctic songbird."
+  key: redpollddrad
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: SA Taylor
+  date: 2015
+  journal: "Molecular Ecology"
+  volume: 24
+  pages: 3009–3025
+  labels:
+    - type: pdf
+      pdf: "Mason & Taylor (2015) Molecular Ecology.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1111/mec.13140"
+    - type: data
+      data: "https://doi.org/10.5061/dryad.15rk0"
+ 
+- title: "Interspecific competition affects evolutionary links between cavity nesting, migration, and clutch size in Old World flycatchers (Muscicapdae)."
+  key: owflycatchers
+  authors:
+    - name: SS Barve
+    - name: NA Mason
+      type: pi
+  date: 2015
+  journal: "Ibis"
+  volume: 157
+  pages: 299–311
+  labels:
+    - type: pdf
+      pdf: "Barve & Mason (2015) Ibis.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1111/ibi.12233"
+      
+- title: "The effect of habitat and body size on the evolution of vocal displays in the largest family of songbirds (Aves: Thraupidae)."
+  key: aah
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: KJ Burns
+  date: 2015
+  journal: "Biological Journal of the Linnean Society"
+  volume: 114
+  pages: 538–551
+  labels:
+    - type: pdf
+      pdf: "Mason & Burns (2015) Biological Journal of the Linnean Society.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1111/bij.12455"
+
+- title: "New Guinean passerines have globally small clutch sizes."
+  key: ngclutch
+  authors:
+    - name: BG Freeman
+    - name: NA Mason
+      type: pi
+  date: 2014
+  journal: "Emu"
+  volume: 114
+  pages: 304–308
+  labels:
+    - type: pdf
+      pdf: "Freeman & Mason (2014) Emu - Austral Ornithology.pdf"
+    - type: doi
+      doi: "http://dx.doi.org/10.1071/MU14023"
+      
+- title: "Elaborate visual and acoustic signals evolve independently in a large, phenotypically diverse radiation of songbirds."
+  key: transferhypothesis
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: AJ Shultz
+    - name: KJ Burns
+  date: 2014
+  journal: "Proceedings of the Royal Society B"
+  volume: 281
+  pages: 20140967
+  labels:
+    - type: pdf
+      pdf: "Mason et al (2014) Proceedings of the Royal Society B Biological Sciences.pdf"
+    - type: doi
+      doi: "http://dx.doi.org/10.1098/rspb.2014.0967"
+    - type: data
+      data: "https://doi.org/10.5061/data.7mj61"
+
+- title: "Phylogenetics and diversification of tanagers (Passeriformes: Thraupidae), the largest radiation of
+Neotropical songbirds."
+  key: thraupidae
+  authors:
+    - name: KJ Burns
+    - name: AJ Shultz
+    - name: PO Title
+    - name: NA Mason
+      type: pi
+    - name: FK Barker
+    - name: J Klicka
+    - name: SM Lanyon
+    - name: IJ Lovette
+  date: 2014
+  journal: "Molecular Phylogenetics and Evolution"
+  volume: 75
+  pages: 41–77
+  labels:
+    - type: pdf
+      pdf: "Burns et al (2014) Molecular Phylogenetics and Evolution.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1016/j.ympev.2014.02.006"
+      
+- title: "Genetic variation among western
+populations of the Horned Lark (<i>Eremophila alpestris</i>) indicates recent colonization of the Channel
+Islands off southern California, mainland-bound dispersal, and postglacial range shifts."
+  key: eremophilaCI
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: PO Title
+    - name: C Cicero
+    - name: KJ Burns
+    - name: RCK Bowie
+  date: 2014
+  journal: "The Auk: Ornithological Advances"
+  volume: 131
+  pages: 139–555
+  labels:
+    - type: pdf
+      pdf: "Mason et al (2014) The Auk.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1642/AUK-13-181.1"
+            
+- title: "Molecular phylogenetics of the Neotropical seedeaters and seed-finches
+(<i>Sporophila</i>, <i>Oryzoborus</i>, <i>Dolospingus</i>)."
+  key: sporophilagenus
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: KJ Burns
+  date: 2013
+  journal: "Ornitología Neotropical"
+  volume: 24
+  pages: 139–555
+  labels:
+    - type: pdf
+      pdf: "Mason & Burns (2013) Ornitologia Neotropical.pdf"
