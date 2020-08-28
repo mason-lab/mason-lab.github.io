@@ -1,7 +1,7 @@
 ---
-title: "Mason Lab - Publications"
+title: "Mason Lab: Publications"
 layout: default
-excerpt: "Mason Lab -- Publications"
+excerpt: "Mason Lab: Publications"
 sitemap: false
 permalink: /publications/
 ---
