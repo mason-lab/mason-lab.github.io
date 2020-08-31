@@ -72,7 +72,9 @@ Some DEI resources at LSU and Baton Rouge:
 
 <br>
 
+</ul>
 Some DEI resources for Ornithology and STEM more broadly:
+<ul>
 
 <li>
 <a href="https://twitter.com/RainbowLors">RainbowLorikeets</a>
