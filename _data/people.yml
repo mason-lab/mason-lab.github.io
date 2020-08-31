@@ -1,7 +1,7 @@
 - name: "Nicholas A. Mason"
   title: "Assistant Professor and Curator of Birds"
   picture: NicholasMason.jpg
-  bio: "Nick is a biodiversity scientist."
+  bio: "Nick is a biodiversity scientist interested in the ecological and evolutionary forces that underlie avian diversification, both in terms of speciation and phenotypic diversity. Nick has broad interests within ornithology, including systematics and taxonomy, color and song evolution, biogeography, natural history, and conservation. While his interests are broad, all of Nick's research involves museum collections, and he is dedicated to their growth and sustainability. Nick is also engaged with teaching and outreach to educate the broader public and increase general awareness and appreciation of biodiveristy and conservation issues."
   labels:
     - type: email
       email: mason [at] lsu.edu
@@ -13,8 +13,8 @@
        
 - name: "Subir B. Shakya"
   title: "Postdoctoral Researcher"
-  picture: SubirShakya2.png
-  bio: "I am interested in the genetic underpinnings of phenotypes (especially color) in birds. I am particularly interested in integrating genetic data with biochemical, ecological, morphological, and spatial data to get a much better understanding of the mechanisms of variation. I am also interested in the phylogeny, biogeography, and natural history of birds, particularly birds from the Old World."
+  picture: SubirHeadshot.png
+  bio: "Subir is interested in the genetic underpinnings of phenotypes (especially color) in birds. Subir is particularly interested in integrating genetic data with biochemical, ecological, morphological, and spatial data to get a much better understanding of the mechanisms of variation. He is also interested in the phylogeny, biogeography, and natural history of birds, particularly birds from the Old World."
   labels:
     - type: email
       email: sshaky6 [at] lsu.edu
@@ -23,8 +23,8 @@
   
 - name: "Maggie MacPherson"
   title: "Postdoctoral Researcher"
-  picture: MaggieMacPherson.jpg
-  bio: "I'm a northerner from Ontario, Canada and I study what shapes species distributions, mainly in birds. I have a particular interest in improving our understanding of drivers of range dynamics in migratory species. My dissertation tested hypotheses for the evolution of migration in passerine birds by contrasting different types of migrants across the Tyrannus (Kingbird) genus using museum specimens. I also did field work throughout northern South America (Colombia, Venezuela, Guyana) to compare the fats consumed (i.e., fatty acid profiles) of migratory versus sedentary populations of Fork-tailed Flycatchers (T. savana). My recent research includes building seasonal species distribution models using citizen science datasets, improving our ability to identify umbrella taxa using Bayesian belief networks, and improving our understanding of what shapes species ranges using Bayesian belief networks (MacPherson and Logan In Prep). My ultimate research goal is to contribute to research that improves our ability to protect wildlife across rapidly changing landscapes by testing the relative roles of ecological and evolutionary processes that contribute to patterns in geographic range limits."
+  picture: MaggieMacPhersonHeadshot.jpeg
+  bio: "Maggie studies what shapes species distributions, mainly in birds. She has a particular interest in improving our understanding of the drivers of range dynamics in migratory species. Her recent research includes building seasonal species distribution models using citizen science datasets and improving our ability to identify umbrella taxa and to understand what shapes ranges using Bayesian belief networks. Her ultimate research goal is to contribute to research that improves our ability to protect wildlife across rapidly changing landscapes by testing the relative roles of ecological and evolutionary processes that contribute to patterns in geographic range limits."
   labels:
     - type: email
       email: maggiemacpherson [at] gmail.com
@@ -33,8 +33,8 @@
    
 - name: "David Vander Pluym"
   title: "PhD Student"
-  picture: DavidVanderPluym.jpg
-  bio: "David is a graduate of the University of California, Santa Cruz with a Bachelor of Sciences in Ecology and Evolutionary Biology. He has worked for several non profits along the lower Colorado River conducting research on riparian breeders and the ecology of Elf Owls. During this time he also conducted independent research on avian migration along the Colorado River. David’s research interests included how avian migration relates to biogeography, systematics, and the impacts of climate change on these systems."
+  picture: DavidVanderPluymHeadshot.jpg
+  bio: "David is a graduate of the University of California, Santa Cruz with a Bachelor of Sciences in Ecology and Evolutionary Biology. He has worked for several non profits along the lower Colorado River conducting research on riparian breeders and the ecology of Elf Owls. During this time he also conducted independent research on avian migration along the Colorado River. David’s research interests include how avian migration relates to biogeography, systematics, and the impacts of climate change on these systems."
   labels:
     - type: email
       email: dvande9 [at] lsu.edu  

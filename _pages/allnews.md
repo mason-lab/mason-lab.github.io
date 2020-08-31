@@ -1,6 +1,6 @@
 ---
 title: "News"
-layout: textlay
+layout: default
 excerpt: "Mason Lab at Louisiana State University."
 sitemap: false
 permalink: /allnews.html

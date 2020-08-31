@@ -6,5 +6,4 @@ sitemap: false
 permalink: /teaching/
 ---
 
-
-Teaching stuff
+Nick is the lead instructor for Ornithology, which will be taught Spring 2021. Please visit the course github page for more information.
