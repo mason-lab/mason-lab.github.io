@@ -39,15 +39,15 @@ This living document provides policies, guidelines, and expectations for members
 	- [Navigate the Job Market](#postdocjobmarket)
 1. [Lab Meetings](#labmeetings)
 1. [Seminars](#seminars)
-1. [Journal Clubs, Reading Groups, and Seminars](#journalclubs)
+1. [Journal Clubs, Reading Groups](#journalclubs)
 1. [Conferences](#conferences)
 1. [Service](#service)
-1. [Curatorial Work](#labwork)
+1. [Curatorial Work](#curatorialwork)
 1. [Lab Work](#labwork)
 1. [Field Work](#fieldwork)
 1. [Reproducible Research](#reproducibleresearch)
-1. [Tools of the Trade](#toolsofthetrade)
 1. [Authorship](#authorship)
+1. [Tools of the Trade](#toolsofthetrade)
 
 
 ---
@@ -147,10 +147,12 @@ Most of the above text about Graduate Students is also relevant to postdoctoral 
 <a name="postdocjobmarket"></a>
 - _Navigate the Job Market_: Postdoctoral researchers must simultaneously finish existing projects, start and complete new projects, and look ahead to their next position, all simultaneously. This is a difficult juggling act, but is the reality of academia. I will pass along opportunities as I discover them and am available to talk about your career. Ultimately, you are responsible for finding your own way through the job market and should be proactive in seeking jobs and other postdoctoral opportunities.
 
+<a name="labmeetings"></a>
 ## Lab Meetings
 
 Mason Lab meetings are currently Wednesdays 3:00 – 4:30 pm CST. Lab Meetings are our time to get together and work toward common goals. We typically rotate from member to member taking the lead on what we will focus on that week, with input from other lab members and the PI. Activities can include reading especially challenging or dense papers together, editing and revising manuscripts or grant proposals, discussing ethics in the field, practice talks or seminars, mini workshops on technical skills or new programs, presentations of new data, or something else!
 
+<a name="seminars"></a>
 ## Seminars
 
 Members of the Mason Lab are expected to attend departmental seminars. You should plan to attend the SEE seminar on Monday and the LSUMNS museum seminar on Friday each week at a minimum, even if the topic is outside of the immediate interests. Seminars are a fantastic way to quickly gain expertise in a specific area and to get to know the people and institutions that drive research.
@@ -160,21 +162,24 @@ Members of the Mason Lab are expected to attend departmental seminars. You shoul
 <a href="https://www.lsu.edu/science/biosci/seminar.php">LSU BioSci Seminar Calendar</a>
 
 
+<a name="journalclubs"></a>
 ## Journal Clubs and Reading Groups
 
 Journal clubs, reading group, and semester-long seminars are fantastic ways to cover the literature. Dissecting papers as a group often leads to deeper, more nuanced understanding of the work at hand. I encourage lab members to attend these opportunities as it fits their schedule and to establish new reading groups if they find one that doesn't meet their current needs or interests.
 
+<a name="conferences"></a>
 ## Conferences
 
 I expect that you will attend and present at academic conferences, an average of perhaps one per year, maybe more when you are on the job market. Conferences are an important venue to present your own work and to network with other people in our fields. If you have something to present (i.e., a poster or a talk), I will try to provide funding to attend via lab funds, but probably cannot afford to finance more than one conference per person per year. You should also apply for all sources of funding, both internally and for specific conferences, and should try to keep conference costs down. The lab will likely not cover costs if you are not presenting research. Personally, I try to attend the <a href="https://americanornithology.org/">American Ornithological Society</a> and the <a href="https://www.evolutionsociety.org/">Society for the Study of Evolution</a> each year. Those will likely be quite relevant to you as well, but you are not limited to those conferences and are encouraged to attend whichever conference you think you will benefit most from.
 
+<a name="service"></a>
 ## Service
 
-Many aspects of academia rely on volunteer service to function. Serving on committees, acting as a peer reviewer, organizing seminars are all done on a volunteer basis. I expect that members of my lab will contribute their time and effort to service in some way, but you should monitor your time and energy and recognize your priorities. Service can be very rewarding, but can also become overwhelming—protect your boundaries and learn when to say 'no'.
+Many aspects of academia rely on volunteer service to function. Serving on departmental committees, acting as a peer reviewer, organizing seminars are all done on a volunteer basis. I expect that members of my lab will contribute their time and effort to service in some way, but you should monitor your time and energy and recognize your priorities. Service can be very rewarding, but can also become overwhelming—protect your boundaries and learn when to say 'no' (but do say yes when you are excited about it). 
 
 #### Service to the University
 
-You may be asked to serve on departmental or university committees. If there is a pressing issue, you can also form committees to take action toward improving some aspect of academia. This allows you to have a voice in departmental issues and 
+You may be asked to serve on departmental or university committees. If there is a pressing issue, you can also form committees to take action toward improving some aspect of grad student life or academia more generally.
 
 #### Service to the Field
 
@@ -184,18 +189,26 @@ There are numerous opportunities to help academic societies in their mission thr
 
 We occasionally (and hopefully increasingly) have opportunities to interact with with community scientists through outreach and public education opportunities. For example, each month we have the <a href="https://www.lsu.edu/mns/news/2019/2019-2020_night-at-the-museum.php">LSUMNS Night at the Museum</a>. There may be other opportunities to interact with K–12 classrooms or contribute to other outreach initiatives. These are important activities to promote the next generation of scientists and cultivate interest and stewardship of our natural world. I encourage you to participate as your commitments allow. 
 
+<a name="curatorialwork"></a>
 ## Curatorial Work
 
 It is expected that each Mason Lab member will continue to the maintenance and growth of the bird collection at the LSUMNS. Each graduate student will spend at least one year as a curatorial assistant, where they will work with PI Mason and the collections managers on a variety of tasks, including specimen preparation, accessioning new specimens, processing loans, collections upkeep, and more. 
 
 Stay tuned for more guidelines and policy on working in the collections.
 
+<a name="labwork"></a>
 ## Lab Work
 
 Many members of the Mason Lab will incorporate molecular work into their research projects. The Mason Lab is part of a shared molecular lab that is a collaborative effort among the various curators in the LSUMNS. You are responsible for making sure that our shared lab space is clean and organized and abide by rules and regulations set up by the lab manager, Dr. Janet Buckner.
 
 Stay tuned for more guidelines and policy on working in wet lab.
  
+<a name="fieldwork"></a>
+## Field Work
+
+Stay tuned for information on field work policies. Very little is happening right now due to covid.
+
+<a name="reproducibleresearch"></a>
 ## Reproducible Research
 
 Reproducibility is an essential component of successful research. We are supportive of producing openly available, reproducible workflows. Doing so benefits us by
@@ -212,6 +225,7 @@ Back up your data. Back up your backups. Have multiple backups in different phys
 
 More on data storage and archiving policies soon.
 
+<a name="authorship"></a>
 ## Authorship
 
 When we start projects, we will frame out roles and authorship for projects. Over time, projects change, personnel change, etc. We will re-evaluate authorship changes when necessary throughout stages of a project. Please voice your opinion if there are any disagreements about any aspect of this process. To be an author on manuscripts out of the lab, we try our best to make sure that all authors meet the following requirements:
@@ -222,3 +236,18 @@ When we start projects, we will frame out roles and authorship for projects. Ove
 - Final approval of the manuscript version that will be published
 
 Read this: <a href="http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html">Defining authorship</a> (most of the points adopted from these standards).
+
+<a name="toolsofthetrade"></a>
+## Tools of the Trade
+
+Here is some software that I use in my professional life that may or may not help you. Note I am a Mac user. 
+
+- Zotero
+- 1Password
+- BBEdit
+- ImageJ
+- Fetch
+- Skitch
+- Evernote
+
+
