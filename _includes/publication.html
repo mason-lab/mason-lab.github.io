@@ -15,7 +15,7 @@
 	margin-bottom: 0px;
 }
 
-.container{
+.container2{
 	display: grid;
 	grid-template: auto / 80% 5%;
 	grid-auto-rows: min-content;
@@ -52,7 +52,7 @@
 
 <html class="no-js" lang="en">
 
-	<div class="container">
+	<div class="container2">
 		<div class="item1">	
 			{% if forloop.rindex < 10 %} <div class="hangingindentl10"> {% else %} <div class="hangingindent"> {% endif %}
 
@@ -67,9 +67,9 @@
 		</div>
 		<div class="item2">
 			{% for lab in p.labels %}
-				{% if lab.type == "data" %}<span><a href="{{lab.data}}"><img class="icon" src="/resources/icons/jam-master/svg/database.svg"></a></span>{% endif %}
-				{% if lab.type == "doi" %}<span><a href="{{lab.doi}}"><img class="icon" src="/resources/icons/jam-master/svg/link.svg"></a></span>{% endif %}
-				{% if lab.type == "pdf" %}<span><a href="../resources/pdfs/{{lab.pdf}}"><img class="icon" src="/resources/icons/jam-master/svg/newspaper.svg"></a></span>{% endif %}
+				{% if lab.type == "data" %}<a href="{{lab.data}}"><span style="font-size: 25px; color: Black;"><i class="fas fa-hdd"></i></span> </a> {% endif %}			
+				{% if lab.type == "doi" %}<a href="{{lab.doi}}"><span style="font-size: 25px; color: Black;"><i class="fas fa-link"></i></span> </a> {% endif %}			
+				{% if lab.type == "pdf" %}<a href="../resources/pdfs/{{lab.pdf}}"><span style="font-size: 25px; color: Black;"><i class="fas fa-file"></i></span> </a> {% endif %}			
 			{% endfor %}
 		</div>
 	</div>

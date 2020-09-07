@@ -6,6 +6,7 @@ sitemap: false
 permalink: /prospectivestudentemails
 ---
 Some tips on writing an email of interest to potential graduate school advisors
+
 **Adopted from the <a href="https://saraheevanslab.weebly.com/">Evans Lab</a> DEI page
 
 Finding an advisor is important for attending graduate school. Graduate programs have an official application to the program you submit through the university, but many graduate programs will only accept students if a professor has agreed to accept or interview them. (Note: an exception is a program that accepts students then matches them to advisors in their first or second year, through rotations or other means). Therefore it is essential to make connections with advisors before you submit your application. Finding and contacting an advisor is up to the applicant.
