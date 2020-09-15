@@ -16,7 +16,7 @@ Avian vocalizations are remarkably diverse and are involved in many aspects of b
 
 #### Evolution and Ecology of Color
 
-Birds feathers have rainbow different colors. We use an expanding toolbox of quantification methods, including spectrophotometry and digital photography, to quantify variation in reflectance, pigmentation, and patterning among populations and species. We study the evolution and ecology of bright colors involved in sexual selection, such as those boasted by many tanagers (Thraupidae), as well as the evolution and ecology of cryptic coloration shaped by natural selection, as seen in larks (Alaudidae). We are also interested in how coloration impacts other aspects of avian biology, such as thermoregulation. 
+Birds span the rainbow of colors (and then some!). We use an expanding toolbox of color science methods, including spectrophotometry and digital photography, to quantify variation in reflectance, pigmentation, and patterning among populations and species. We study the evolution and ecology of bright colors involved in sexual selection, such as those boasted by many tanagers (Thraupidae), as well as the evolution and ecology of cryptic coloration shaped by natural selection, as seen in larks (Alaudidae). We are also interested in how coloration impacts other aspects of avian biology, such as thermoregulation. 
 
 #### Biogeography
 
