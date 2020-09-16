@@ -1,3 +1,21 @@
+- title: "Plumage patterns: Ecological functions, evolutionary origins, and advances in quantification."
+  key: plumagepatterns
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: RCK Bowie
+  date: 2020
+  journal: "The Auk: Ornithological Advances"
+  volume: 137
+  pages: 1–29
+  labels:
+    - type: pdf
+      pdf: "Mason & Bowie (2020) The Auk"
+    - type: doi
+      doi: "https://doi.org/10.1093/auk/ukaa060"
+    - type: data
+      data: "https://doi.org/10.6078/D10T3P"
+
 - title: "Sixty-first supplement to the American Ornithological Society's Check-list of North American Birds."
   key: sixtyfirstnacc
   authors:
