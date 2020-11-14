@@ -1,3 +1,22 @@
+- title: "Agriculture induces isotopic shifts and niche contraction in Horned Larks (Eremophila alpestris) of the Colorado Desert."
+  key: hornedlarkIV
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: P Unitt
+    - name: JP Sparks
+  date: 2020
+  journal: "Journal of Ornithology"
+  volume: 
+  pages: 
+  labels:
+    - type: pdf
+      pdf: "Mason et al (2020) Journal of Ornithology"
+    - type: doi
+      doi: "https://doi.org/10.1007/s10336-020-01834-0"
+    - type: data
+      data: "https://github.com/mason-lab/IVLarkIsotopesJoO"
+
 - title: "Plumage patterns: Ecological functions, evolutionary origins, and advances in quantification."
   key: plumagepatterns
   authors:
