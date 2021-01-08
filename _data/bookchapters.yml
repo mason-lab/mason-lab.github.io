@@ -1,0 +1,16 @@
+- title: "Integrating museum and media collections to study vocal ecology and evolution. Pp. 57–74 <i>in</i> M. S. Webster (editor), The Extended Specimen: Emerging Frontiers in Collections-Based Ornithological Research. Studies in Avian Biology (no. 50), CRC Press, Boca Raton, FL."
+  key: extendedspecimen
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: B Pasch
+    - name: KJ Burns
+    - name: EP Derryberry
+  date: 2017
+  journal:
+  volume:
+  pages:
+  labels:
+    - type: pdf
+      pdf: "Mason et al (2017) The Extended Specimen Emerging Frontiers in Collections-Based Ornithological Research.pdf"
+      
