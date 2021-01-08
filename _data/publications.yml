@@ -1,3 +1,29 @@
+- title: "Addendum to the Sixty-first Supplement to the American Ornithological Society’s Check-list of North American Birds."
+  key: sixtyfirstnaccad
+  authors:
+    - name: RT Chesser
+    - name: SM Billerman
+    - name: KJ Burns
+    - name: C Cicero
+    - name: JL Dunn
+    - name: AW Kratter
+    - name: IJ Lovette
+    - name: NA Mason
+      type: pi
+    - name: PC Rasmussen
+    - name: JV Remsen
+    - name: DF Stotz
+    - name: K Winker
+  date: 2021
+  journal: "Ornithology"
+  volume: 138
+  pages: 1–1
+  labels:
+    - type: pdf
+      pdf: "Chesser et al (2021) Ornitholoy.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1093/ornithology/ukaa074"
+
 - title: "Agriculture induces isotopic shifts and niche contraction in Horned Larks (Eremophila alpestris) of the Colorado Desert."
   key: hornedlarkIV
   authors:
