@@ -20,9 +20,9 @@
   pages: 1–1
   labels:
     - type: pdf
-      pdf: "Chesser et al (2021) Ornitholoy.pdf"
+      pdf: "Chesser et al (2021) Ornithology.pdf"
     - type: doi
-      doi: "https://doi.org/10.1093/ornithology/ukaa074"
+      doi: "https://academic.oup.com/auk/advance-article/doi/10.1093/ornithology/ukaa074/6067224"
 
 - title: "Agriculture induces isotopic shifts and niche contraction in Horned Larks (Eremophila alpestris) of the Colorado Desert."
   key: hornedlarkIV
