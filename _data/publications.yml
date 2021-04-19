@@ -1,3 +1,44 @@
+- title: "Integrative taxonomy and geographic sampling underlie successful species delimitation."
+  key: IT_ornitho
+  authors:
+    - name: AC Demery
+    - name: KJ Burns
+    - name: NA Mason
+      type: pi    
+  date: 2021
+  journal: "Ornithology"
+  volume: 138
+  pages: ukab011
+  labels:
+    - type: pdf
+      pdf: "Demery et al (2021) Ornithology.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1093/ornithology/ukab011"    
+    - type: data
+      data: "https://doi.org/10.5061/dryad.31zcrjdk3"
+
+- title: "Integrative taxonomy and geographic sampling underlie successful species delimitation."
+  key: IT_ornitho
+  authors:
+    - name: C Cicero
+    - name: NA Mason
+      type: pi    
+    - name: RA Jiménez
+    - name: DR Wait
+    - name: CY Wang-Claypool
+    - name: RCK Bowie
+    - name: AW Kratter
+  date: 2021
+  journal: "Ornithology"
+  volume: 138
+  pages: ukab009
+  labels:
+    - type: pdf
+      pdf: "Cicero et al (2021) Ornithology.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1093/ornithology/ukab009"
+
+
 - title: "Addendum to the Sixty-first Supplement to the American Ornithological Society’s Check-list of North American Birds."
   key: sixtyfirstnaccad
   authors:
