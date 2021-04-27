@@ -13,7 +13,7 @@
     - type: doi
       doi: "https://doi.org/10.1093/ornithology/ukab019"    
       
-- title: "Integrative taxonomy and geographic sampling underlie successful species delimitation."
+- title: "Bill size, bill shape, and body size constrain bird song evolution on a macroevolutionary scale."
   key: billsong
   authors:
     - name: AC Demery
