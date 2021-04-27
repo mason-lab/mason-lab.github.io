@@ -1,3 +1,18 @@
+- title: "Book Review: Bird is the Word: An Historical Perspective on the Names of North American Birds."
+  key: birdnamesbookreview
+  authors:
+    - name: NA Mason
+      type: pi    
+  date: 2021
+  journal: "Ornithology"
+  volume: 138
+  pages: ukab019
+  labels:
+    - type: pdf
+      pdf: "Mason (2021) Ornithology.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1093/ornithology/ukab019"    
+      
 - title: "Integrative taxonomy and geographic sampling underlie successful species delimitation."
   key: billsong
   authors:
