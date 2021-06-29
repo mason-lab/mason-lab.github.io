@@ -1,3 +1,31 @@
+- title: "Sixty-second Supplement to the American Ornithological Society's
+Check-list of North American Birds."
+  key: sixtysecondsupplement
+  authors:
+    - name: RT Chesser
+    - name: SM Billerman
+    - name: KJ Burns
+    - name: C Cicero
+    - name: JL Dunn
+    - name: BE Hernández-Baños
+    - name: AW Kratter
+    - name: IJ Lovette
+    - name: NA Mason
+      type: pi
+    - name: PC Rasmussen
+    - name: JV Remsen
+    - name: DF Stotz
+    - name: K Winker 
+  date: 2021
+  journal: "Ornithology"
+  volume: 138
+  pages: ukab037
+  labels:
+    - type: pdf
+      pdf: "Chesser (2021b) Ornithology.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1093/ornithology/ukab037"    
+      
 - title: "Book Review: Bird is the Word: An Historical Perspective on the Names of North American Birds."
   key: birdnamesbookreview
   authors:
