@@ -106,28 +106,28 @@ Many of the expectations outlined here are relevant to all members, regardless o
 	- <a href="https://lsu.edu/shc/">LSU Student Health Center</a>
 
 <a name="gradteam"></a>
-- _Working Hours_: One benefit of academia is that we have flexible working hours that we can adjust to accomodate personal circadian rhythms and external responsibilities. That said, I expect that lab members will typically be available and on campus on working days (Monday through Friday, except national and university holidays) between 10:00 AM CST and 2:00 PM CST. Workloads can vary substantially from one week to the next depending on what stage a project is in or impending deadlines. There may be times when you may have to work evenings or on the weekend, but I also encourage you to take time off and to seek work-life balance. You may receive emails from me or see updates from me outside of normal working hours, but you are not expected to respond those actions outside of your normal working hours. If you are planning an extended absence for vacation or work-related travel, please check in with me first to make sure there are no conflicts.
+- _Working Hours_: One benefit of academia is that we have flexible working hours that we can adjust to accomodate personal circadian rhythms and external responsibilities. That said, I expect that lab members will typically be available and on campus on working days (Monday through Friday, except national and university holidays) between 10:00 AM CST and 3:00 PM CST at an absolute minimum. Workloads can vary substantially from one week to the next depending on what stage a project is in or impending deadlines. There may be times when you may have to work evenings or on the weekend, but I also encourage you to take time off and to seek work-life balance. You may receive emails from me or see updates from me outside of normal working hours, but you are not expected to respond those actions outside of your normal working hours. If you are planning an extended absence for vacation or work-related travel, please let me know well in advance to make sure there are no conflicts.
 
 <a name="gradteam"></a>
-- _Be a Team Player_: Participate in lab meetings, provide feedback on practice presentations, and help proof-read or provide feedback on projects and manuscripts. Participate in group fieldwork opportunities when they arise. Put real effort into these situations. Be on time, prepare for group discussions, and provide honest and helpful feedback in a constructive manner. Respond to emails and any other correspondence in a timely fashion (ideally within one working day, even if only to acknowledge receipt of the email).
+- _Be a Team Player_: Participate in lab meetings, provide feedback on practice presentations, and help proof-read or provide feedback on projects and manuscripts. Participate in group fieldwork opportunities when they arise. Put real effort into these situations. Be on time, prepare for group discussions, and provide honest and helpful feedback in a constructive manner. Respond to emails and any other correspondence in a timely fashion (ideally within 1-2 working days, even if only to acknowledge receipt of the email).
 
 <a name="gradprospective"></a>
 - _Prospective Students_: I will periodically ask if prospective students, postdocs, or other lab members can contact you to ask you about your experience in the Mason Lab and at LSU. I expect you to make yourself available in these instances and to speak openly and honestly about your experience.
 
 <a name="gradadvice"></a>
-- _Seek Advice_: I expect you to seek my advice on issues related to your professional and academic development (e.g., TAships, research directions, funding opportunities, conferences) and to seriously consider that advice. You should also consult your peers and near-peers. That said, exercise your own judgement in applying that advice to your personal situation. Ultimately, it's your graduate education and you are the driver. 
+- _Seek Advice_: I expect you to seek my advice on issues related to your professional and academic development (e.g., TAships, research directions, funding opportunities, conferences) and to seriously consider that advice. You should also consult your peers and near-peers. That said, exercise your own judgement in applying all external advice to your personal situation. Ultimately, it's your graduate education and you are the pilot. 
 
 <a name="gradread"></a>
-- _Read Widely_: Graduate students (especially first-year students) have lots of literature to quickly become familiar with. The only way to do this is to read widely and deeply. As a lab group, we often try to keep up with the literature collectively, but it is your responsibility to make time to read primary literature, review articles, and textbooks to fill gaps in your knowledge and generate new ideas. Reading is fun!
+- _Read Widely_: Graduate students (especially first-year students) have lots of literature to quickly become familiar with. The only way to do this is to read widely and deeply. As a lab group, we often try to keep up with the literature collectively, but it is your responsibility to make time on your own to read primary literature, review articles, and textbooks to fill gaps in your knowledge and generate new ideas. Reading is fun!
 
 <a name="grad1on1"></a>
-- _1-on-1 Meetings_: Prepare for our regular 1-on-1 meetings so that we can make the most of our limited time together. Complete follow-up items from prior meetings and if possible, send an agenda or list of meeting items in advance of the weekly meeting or come with one prepared. 
+- _1-on-1 Meetings_: Prepare for our regular 1-on-1 meetings so that we can make the most of our limited time together. I try to keep weekly meetings to an hour, but sometimes they may go over if we have a lot to cover. Complete follow-up items from prior meetings and if possible, send an agenda or list of meeting items in advance of the weekly meeting or come with one prepared. 
 
 <a name="grad1on1"></a>
-- _Manage Your Advisor_: You're busy and your advisor is busy. Be proactive in managing your advisor: send reminders of deadlines and prior obligations, resend emails if no reply is received, take the initiative in managing the relationship. 
+- _Manage Your Advisor_: You're busy and your advisor (me!) is busy. Be proactive in managing your advisor: send reminders of deadlines and prior obligations, resend emails if no reply is received, take the initiative in managing the relationship. 
 
 <a name="gradmentor"></a>
-- _Be a Mentor_: As you progress as a grad student, you will gain knowledge and skills that enable you to act as a mentor. I expect that you will seek opportunities to mentor undergraduate and possible younger graduate students in collaborative research projects.  
+- _Be a Mentor_: As you progress as a grad student, you will gain knowledge and skills that enable you to act as a mentor. I expect that you will seek opportunities to mentor undergraduate and possible more junior graduate students in collaborative research projects.  
 
 
 <a name="pdexpec"></a>
@@ -136,7 +136,7 @@ Many of the expectations outlined here are relevant to all members, regardless o
 Most of the above text about Graduate Students is also relevant to postdoctoral researchers—but there are differences. Notably, each postdoctoral position is different and is dependent on the funding source. Some postdoctoral fellowships are more independent than others and will be less hands on. Other postdoctoral positions are closely tied to specific projects and will be managed more closely. Postdoctoral positions are often short and time management is crucial to success. Some additional thoughts here:
 
 <a name="postdocexistingprojects"></a>
-- _Finish Existing Projects_: All postdocs will arrive with existing projects that they are trying to finish. I encourage you to finish their existing work—your professional advancement and development is the overarching goal in joining my lab as a postdoc. However, your primary focus should be on current research in the Mason Lab and you should balance your time management as such.
+- _Finish Existing Projects_: All postdocs will arrive with existing projects that they are trying to finish. I encourage you to finish existing work—your professional advancement and development is the ultimate goal in joining my lab as a postdoc. That said, your primary focus should be on current research in the Mason Lab and you should balance your time management as such.
 
 <a name="postdocresearchfocus"></a>
 - _Focus on Research and Writing_: Postdoctoral researchers are expected to be narrowly focused on research. I may hire postdocs to finish data analysis and writing for projects that use data collected by others rather than design projects and collect data themselves. While teaching, outreach, and service opportunities are also important, postdoctoral researchers should protect their time and recognize that their priority should be to generate lead-author publications toward being a competitive job applicant. 
@@ -150,7 +150,7 @@ Most of the above text about Graduate Students is also relevant to postdoctoral 
 <a name="labmeetings"></a>
 ## Lab Meetings
 
-Mason Lab meetings are currently Wednesdays 3:00 – 4:30 pm CST. Lab Meetings are our time to get together and work toward common goals. We typically rotate from member to member taking the lead on what we will focus on that week, with input from other lab members and the PI. Activities can include reading especially challenging or dense papers together, editing and revising manuscripts or grant proposals, discussing ethics in the field, practice talks or seminars, mini workshops on technical skills or new programs, presentations of new data, or something else!
+Mason Lab meetings are currently Wednesdays 3:30 – 5:00 pm CST. Lab Meetings are our time to get together and work toward common goals. We typically rotate from member to member taking the lead on what we will focus on that week, with input from other lab members and the PI. Activities can include reading especially challenging or dense papers together, editing and revising manuscripts or grant proposals, discussing ethics in the field, practice talks or seminars, mini workshops on technical skills or new programs, presentations of new data, or something else!
 
 <a name="seminars"></a>
 ## Seminars
@@ -192,7 +192,7 @@ We occasionally (and hopefully increasingly) have opportunities to interact with
 <a name="curatorialwork"></a>
 ## Curatorial Work
 
-It is expected that each Mason Lab member will continue to the maintenance and growth of the bird collection at the LSUMNS. Each graduate student will spend at least one year as a curatorial assistant, where they will work with PI Mason and the collections managers on a variety of tasks, including specimen preparation, accessioning new specimens, processing loans, collections upkeep, and more. 
+It is expected that each Mason Lab member will continue to the maintenance and growth of the bird collection at the LSUMNS. Each graduate student will spend at least one semester as a curatorial assistant, where they will work with PI Mason and the collections managers on a variety of tasks, including specimen preparation, accessioning new specimens, processing loans, collections upkeep, and more. 
 
 Stay tuned for more guidelines and policy on working in the collections.
 
@@ -211,7 +211,7 @@ Stay tuned for information on field work policies. Very little is happening righ
 <a name="reproducibleresearch"></a>
 ## Reproducible Research
 
-Reproducibility is an essential component of successful research. We are supportive of producing openly available, reproducible workflows. Doing so benefits us by
+Reproducibility is an essential component of successful research. We are supportive of producing openly available, reproducible workflows. Doing so benefits us by allowing us to retrace our steps and providing building blocks for future research.
 
 #### Documenting Workflows
 

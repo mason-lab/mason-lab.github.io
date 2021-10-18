@@ -115,13 +115,13 @@ Check-list of North American Birds."
       type: pi
     - name: P Unitt
     - name: JP Sparks
-  date: 2020
+  date: 2021
   journal: "Journal of Ornithology"
-  volume: 
-  pages: 
+  volume: 162
+  pages: 381–393
   labels:
     - type: pdf
-      pdf: "Mason et al (2020) Journal of Ornithology"
+      pdf: "Mason et al (2021) Journal of Ornithology"
     - type: doi
       doi: "https://doi.org/10.1007/s10336-020-01834-0"
     - type: data
