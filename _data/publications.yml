@@ -2,6 +2,27 @@
 Check-list of North American Birds."
   key: sixtysecondsupplement
   authors:
+    - name: MP MacPherson
+      type: pd
+    - name: AE Jahn
+    - name: NA Mason
+      type: pi
+  date: 2021
+  journal: "Biological Journal of the Linnean Society"
+  volume: XX
+  pages: 1–13
+  labels:
+    - type: pdf
+      pdf: "Macpherson et al (2021) Biological Journal of the Linnean Society"
+    - type: doi
+      doi: "https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blab123/6406985?login=true"    
+    - type: data
+      data: "https://github.com/mmacphe/Tyrannus_morphology"
+
+- title: "Sixty-second Supplement to the American Ornithological Society's
+Check-list of North American Birds."
+  key: sixtysecondsupplement
+  authors:
     - name: RT Chesser
     - name: SM Billerman
     - name: KJ Burns
