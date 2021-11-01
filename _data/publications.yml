@@ -1,9 +1,8 @@
-- title: "Sixty-second Supplement to the American Ornithological Society's
-Check-list of North American Birds."
-  key: sixtysecondsupplement
+- title: "Morphology of migration: associations between wing shape, bill morphology and migration in kingbirds (<i>Tyrannus</i>)."
+  key: morphologymigration
   authors:
     - name: MP MacPherson
-      type: pd
+      type: postdocauthor
     - name: AE Jahn
     - name: NA Mason
       type: pi
@@ -13,7 +12,7 @@ Check-list of North American Birds."
   pages: 1–13
   labels:
     - type: pdf
-      pdf: "Macpherson et al (2021) Biological Journal of the Linnean Society"
+      pdf: "Macpherson et al (2021) Biological Journal of the Linnean Society.pdf"
     - type: doi
       doi: "https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blab123/6406985?login=true"    
     - type: data
