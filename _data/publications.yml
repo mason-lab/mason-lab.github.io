@@ -1,3 +1,26 @@
+- title: "A supergene underlies linked variation in color and morphology in a Holarctic songbird."
+  key: redpollredux
+  authors:
+    - name: ER Funk
+    - name: NA Mason
+      type: pi
+    - name: AE Jahn
+    - name: S Pálsson
+    - name: T Albrecht
+    - name: JA Johnson
+    - name: SA Taylor
+  date: 2021
+  journal: "Nature Communications"
+  volume: 12
+  pages: 6833
+  labels:
+    - type: pdf
+      pdf: "Funk et al (2021) Nature Communications.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1038/s41467-021-27173-z"    
+    - type: data
+      data: "https://www.nature.com/articles/s41467-021-27173-z#data-availability"
+      
 - title: "Morphology of migration: associations between wing shape, bill morphology and migration in kingbirds (<i>Tyrannus</i>)."
   key: morphologymigration
   authors:
