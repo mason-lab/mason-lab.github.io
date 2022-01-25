@@ -1,3 +1,41 @@
+- title: "Neo-sex chromosome evolution and phenotypic evolution across an elevational gradient in Horned Larks (<i>Eremophila alpestris</i>)."
+  key: larkssierranevada
+  authors:
+    - name: SB Shakya
+      type: postdocauthor
+    - name: CY Wang-Claypool
+    - name: C Cicero
+    - name: RCK Bowie
+    - name: NA Mason
+      type: pi
+  date: 2022
+  journal: "Molecular Ecology"
+  volume: XX
+  pages: XX–XX
+  labels:
+    - type: doi
+      doi: "https://doi.org/10.1111/mec.16357"    
+      
+- title: "Morphology of migration: associations between wing shape, bill morphology and migration in kingbirds (<i>Tyrannus</i>)."
+  key: morphologymigration
+  authors:
+    - name: MP MacPherson
+      type: postdocauthor
+    - name: AE Jahn
+    - name: NA Mason
+      type: pi
+  date: 2022
+  journal: "Biological Journal of the Linnean Society"
+  volume: 135
+  pages: 71–83
+  labels:
+    - type: pdf
+      pdf: "Macpherson et al (2022) Biological Journal of the Linnean Society.pdf"
+    - type: doi
+      doi: "https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blab123/6406985?login=true"    
+    - type: data
+      data: "https://github.com/mmacphe/Tyrannus_morphology"
+      
 - title: "A supergene underlies linked variation in color and morphology in a Holarctic songbird."
   key: redpollredux
   authors:
@@ -21,26 +59,6 @@
     - type: data
       data: "https://www.nature.com/articles/s41467-021-27173-z#data-availability"
       
-- title: "Morphology of migration: associations between wing shape, bill morphology and migration in kingbirds (<i>Tyrannus</i>)."
-  key: morphologymigration
-  authors:
-    - name: MP MacPherson
-      type: postdocauthor
-    - name: AE Jahn
-    - name: NA Mason
-      type: pi
-  date: 2021
-  journal: "Biological Journal of the Linnean Society"
-  volume: XX
-  pages: 1–13
-  labels:
-    - type: pdf
-      pdf: "Macpherson et al (2021) Biological Journal of the Linnean Society.pdf"
-    - type: doi
-      doi: "https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blab123/6406985?login=true"    
-    - type: data
-      data: "https://github.com/mmacphe/Tyrannus_morphology"
-
 - title: "Sixty-second Supplement to the American Ornithological Society's
 Check-list of North American Birds."
   key: sixtysecondsupplement
