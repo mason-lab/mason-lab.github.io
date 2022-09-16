@@ -16,29 +16,18 @@
     - type: googlescholar
       googlescholar: https://scholar.google.com/citations?hl=en&user=UU_RqEkAAAAJ&view_op=list_works&sortby=pubdate
 
-       
-- name: "Subir B. Shakya"
+- name: "Diego Ocampo Vargas"
   title: "Postdoctoral Researcher"
-  picture: SubirHeadshot.png
-  bio: "Subir is interested in the genetic underpinnings of phenotypes (especially color) in birds. Subir is particularly interested in integrating genetic data with biochemical, ecological, morphological, and spatial data to get a much better understanding of the mechanisms of variation. He is also interested in the phylogeny, biogeography, and natural history of birds, particularly birds from the Old World."
+  picture: Ocampo_photo.jpeg
+  bio: "Diego has broad interest in understanding the evolutionary process that has led to diverse bird morphs and behaviors, especially in Neotropical birds. More specifically, Diego uses museum-based research and bioinformatic tools to look at the population structure, the genomic architecture of adaptive traits, as well as the behavioral and ecological factors that drive the divergence of phenotypes. Diego is currently focusing on the mode and tempo of trait evolution across the genus Sporophila."
   labels:
     - type: website
-      website: http://subir.com.np/
+      website: https://ocampodiego.weebly.com/
+    - type: orcid
+      orcid: https://orcid.org/0000-0002-7411-2027
     - type: googlescholar
-      googlescholar: https://scholar.google.com/citations?user=ETGvbj0AAAAJ&hl=en
-  
-- name: "Maggie P. MacPherson"
-  title: "Postdoctoral Researcher"
-  picture: MaggieMacPhersonHeadshot.jpeg
-  bio: "Maggie studies what shapes species distributions, mainly in birds. They have a particular interest in improving our understanding of the drivers of range dynamics in migratory species. Their recent research includes building seasonal species distribution models using citizen science datasets and improving our ability to identify umbrella taxa and to understand what shapes ranges using Bayesian belief networks. Their ultimate research goal is to contribute to research that improves our ability to protect wildlife across rapidly changing landscapes by testing the relative roles of ecological and evolutionary processes that contribute to patterns in geographic range limits."
-  labels:
-    - type: website
-      website: http://maggiepmacpherson.com/
-    - type: twitter
-      twitter: https://twitter.com/B1rdz_Lady
-    - type: googlescholar
-      googlescholar: https://scholar.google.com/citations?user=o2F7SKEAAAAJ&hl=en
-      
+      googlescholar: https://scholar.google.com/citations?user=ZUB9sRsAAAAJ&hl=en&oi=ao
+              
 - name: "David Vander Pluym"
   title: "PhD Student"
   picture: Picture13.jpg
@@ -56,4 +45,15 @@
       twitter: https://twitter.com/slrutledge27
     - type: googlescholar
       googlescholar: https://scholar.google.com/citations?user=Yn9CgqEAAAAJ&hl=en
+      
+- name: "Quinn McCallum"
+  title: "PhD Student"
+  picture: QM-lab-site-photo-option-1.jpg
+  bio: "Quinn graduated from the University of British Columbia with an Honours in Evolutionary Biology, where he studied genomic divergence and mitochondrial introgression between White-crowned and Golden-crowned Sparrows. Quinn is broadly interested in diversification, biogeography, and integrative taxonomy. Currently, he is studying the comparative phylogeography of birds inhabiting Andean sky islands. Quinn is also a trained illustrator and is passionate about connecting people and birds through outreach and community science."
+  labels:
+    - type: website
+      website: https://quinnmccallum.com/
+    - type: twitter
+      twitter: https://mobile.twitter.com/quinn_mccallum
+    
      
