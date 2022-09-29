@@ -28,6 +28,8 @@
 
 
 
+  
+
 <style>
 .button {
   border: none;
@@ -64,6 +66,41 @@
   color: white;
 }
 
+.dropbtn {
+  color: black;
+  padding: 16px 32px;
+  font-size: 16px;
+  margin: 4px 2px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {color: black; background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: white;}
+
 </style>
 </head>
 
@@ -80,20 +117,65 @@
 		<span class="icon-bar"></span>
 	  </button>
 	
-    <a class="navbar-brand" href="http://localhost:4000/">Mason Lab @ Louisiana State Univeristy</a>
+    <a class="navbar-brand" href="http://localhost:4000/">Mason Lab @ Louisiana State University</a>
 	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="http://localhost:4000/research">Research</a></li>
-		<li><a href="http://localhost:4000/people">People</a></li>
-		<li><a href="http://localhost:4000/publications">Publications</a></li>
-		<li><a href="http://localhost:4000/opportunities">Opportunities</a></li>
-		<li><a href="http://localhost:4000/labhandbook">Handbook</a></li>
-		<li><a href="http://localhost:4000/dei">DEI</a></li>
-	  </ul>
-	</div>
+	
+		<nav id="navbar" class="collapse navbar-collapse">
+			<ul class="nav navbar-nav navbar-right">
+				
+				
+					
+					
+					
+						<li class="">
+							<a href="http://localhost:4000/research/">Research</a>
+						</li>
+					
+				
+					
+					
+					
+						<li class="">
+							<a href="http://localhost:4000/publications/">Publications</a>
+						</li>
+					
+				
+					
+					
+					
+						<li class="dropdown ">
+							<a href="http://localhost:4000/people/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">People <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								
+									
+										<li>
+											<a href="http://localhost:4000/currentmembers/">Current Members</a>
+										</li>
+									
+								
+									
+										<li>
+											<a href="http://localhost:4000/alumni/">Alumni</a>
+										</li>
+									
+								
+							</ul>
+						</li>
+					
+				
+					
+					
+					
+						<li class="">
+							<a href="http://localhost:4000/opportunities/">Opportunities</a>
+						</li>
+					
+				
+			</ul>
+		</nav>
   </div>
 </div>
+
 
 
     <div class="container-fluid">
@@ -114,32 +196,32 @@
 <h4>News</h4>
 
 
-<b> 23 Apr 2021 </b>
-<p><a href="https://doi.org/10.1093/ornithology/ukab019">Nick publishes a book review on ''Bird is the Word An Historical Perspective on the Names of North American Birds''.</a></p>
+<b> 25 Jan 2022 </b>
+<p>Subir and Nick publish with MVZ collaborators on landscape genomics of Horned Larks in the Sierra Nevada. <a href="https://onlinelibrary.wiley.com/doi/10.1111/mec.16357?af=R"> Early access link here!</a></p>
 
-<b> 19 Apr 2021 </b>
-<p><a href="https://doi.org/10.1093/ornithology/ukab011">Collaborator Amelia Demery publishes with Nick on the macroevolutionary effects of morphology on tanager song.</a></p>
+<b> 13 Jan 2022 </b>
+<p>Nick presents synopsis of the history, current projects, and future of the LSU Museum of Natural Science to the Baton Rouge Audubon Society. <a href="https://www.youtube.com/watch?v=r3saD1hs4cY"> YouTube link here!</a></p>
 
-<b> 12 Apr 2021 </b>
-<p><a href="https://doi.org/10.1093/ornithology/ukab009">Nick publishes with MVZ collaborators on integrative species delimitation.</a></p>
+<b> 25 Nov 2021 </b>
+<p><a href="https://www.nature.com/articles/s41467-021-27173-z"> Nick publishes with Funk, Taylor, and colleagues on a supergene underlying phenotypic variation in redpolls </a>.</p>
 
-<b> 08 Mar 2021 </b>
-<p>Samantha Rutledge joins the Mason Lab as a new PhD student to begin in Fall 2021. Welcome, Samantha!</p>
+<b> 25 Nov 2021 </b>
+<p><a href="https://www.nature.com/articles/s41467-021-27173-z"> Nick publishes with Funk, Taylor, and colleagues on a supergene underlying phenotypic variation in redpolls </a>.</p>
 
-<b> 26 Jan 2021 </b>
-<p>MVZ undergrad Elisa Yang, Phil Unitt, and Nick <a href="https://www.biorxiv.org/content/10.1101/2021.01.24.427985v1">publish a preprint</a> on Dorsal color in "Oregon" Dark-eyed Juncos.</p>
+<b> 30 Oct 2021 </b>
+<p>Nick gave the plenary talk at the Louisiana Ornithological Society, <a href="https://audubon.zoom.us/rec/share/6KRTSX27xR3-3XAoOZpiMMQA_u6_GrmkPpQpjoVNFdPFkKh1VJx-s6CGfVW9BRXP.j-_4exrFAxHxns1h"> check it out here! </a></p>
 
-<b> 01 Jan 2021 </b>
-<p>Happy New Year from the Mason Lab! Looking forward to a productive 2021.</p>
+<b> 28 Oct 2021 </b>
+<p>Samantha and Nick helped out at the Yellow Rails and Rice Festival organized by LSUMNS collection managers Steve Cardiff and Donna Dittman. Everyone had a great time and saw some new birds! Geaux rails!</p>
 
-<b> 20 Dec 2020 </b>
-<p><center> <a href="/resources/journalcovers/AukCoverMason2020.png"> <img src="/resources/journalcovers/AukCoverMason2020.png" style="width:100px"> </a> </center> <a href="https://doi.org/10.1093/auk/ukaa060"> Mason and Bowie (2020) </a> is featured on the cover of the last issue of the Auk.</p>
+<b> 21 Oct 2021 </b>
+<p><a href="https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blab123/6406985?login=true"> Maggie and Nick publish on the morphology of migration in Tyrannus in the Biological Journal of the Linnean Society</a>.</p>
 
-<b> 13 Nov 2020 </b>
-<p>Nick and collaborators publish on agriculture and stable isotopes of Horned Larks in the Imperial Valley in <a href="https://doi.org/10.1007/s10336-020-01834-0">Journal of Ornithology</a>.</p>
+<b> 18 Oct 2021 </b>
+<p><a href="https://www.youtube.com/watch?v=AuntPLRKZI8&feature=youtu.be">New video with tour of LSUMNS</a> coutesy of Janet Buckner and the <a href="https://twitter.com/hashtag/BlackInNHMs?src=hashtag_click">Black in Natural History Museums Twitter campaign</a>.</p>
 
-<b> 11 Nov 2020 </b>
-<p>Subir and B10K collaborators (including many other LSUMNS members) publish 363 bird genomes in <a href="https://www.nature.com/articles/s41586-020-2873-9">Nature</a>.</p>
+<b> 23 Sep 2021 </b>
+<p><a href="https://academic.oup.com/cz/advance-article/doi/10.1093/cz/zoab078/6374451">Samantha publishes on Brown-headed Cowbird egg color in Current Zoology.</a></p>
 
 
 <h4><a href="http://localhost:4000/allnews.html">... see all News</a></h4>
@@ -189,3 +271,4 @@
   </body>
 
 </html>
+

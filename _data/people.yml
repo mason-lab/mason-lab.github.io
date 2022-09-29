@@ -16,7 +16,7 @@
     - type: googlescholar
       googlescholar: https://scholar.google.com/citations?hl=en&user=UU_RqEkAAAAJ&view_op=list_works&sortby=pubdate
 
-- name: "Diego Ocampo Vargas"
+- name: "Diego Ocampo"
   title: "Postdoctoral Researcher"
   picture: Ocampo_photo.jpeg
   bio: "Diego has broad interest in understanding the evolutionary process that has led to diverse bird morphs and behaviors, especially in Neotropical birds. More specifically, Diego uses museum-based research and bioinformatic tools to look at the population structure, the genomic architecture of adaptive traits, as well as the behavioral and ecological factors that drive the divergence of phenotypes. Diego is currently focusing on the mode and tempo of trait evolution across the genus Sporophila."
@@ -33,6 +33,8 @@
   picture: Picture13.jpg
   bio: "David is a graduate of the University of California, Santa Cruz with a Bachelor of Sciences in Ecology and Evolutionary Biology. He has worked for several non profits along the lower Colorado River conducting research on riparian breeders and the ecology of Elf Owls. During this time he also conducted independent research on avian migration along the Colorado River. David’s research interests include how avian migration relates to biogeography, systematics, and the impacts of climate change on these systems."
   labels:
+    - type: twitter
+      twitter: https://twitter.com/PluymDavid
     - type: googlescholar
       googlescholar: https://scholar.google.com/citations?user=B406Eq8AAAAJ&hl=en
       

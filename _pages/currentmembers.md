@@ -1,9 +1,9 @@
 ---
-title: "Mason Lab: People"
+title: "Mason Lab: Current Members"
 layout: default
-excerpt: "Mason Lab: People"
+excerpt: "Mason Lab: Current Members"
 sitemap: false
-permalink: /people/
+permalink: /currentmembers/
 ---
 
 {% for z in site.data.people %} {% include person.html %} {% endfor %}

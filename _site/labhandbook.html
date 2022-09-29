@@ -28,6 +28,8 @@
 
 
 
+  
+
 <style>
 .button {
   border: none;
@@ -64,6 +66,41 @@
   color: white;
 }
 
+.dropbtn {
+  color: black;
+  padding: 16px 32px;
+  font-size: 16px;
+  margin: 4px 2px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {color: black; background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: white;}
+
 </style>
 </head>
 
@@ -80,20 +117,65 @@
 		<span class="icon-bar"></span>
 	  </button>
 	
-    <a class="navbar-brand" href="http://localhost:4000/">Mason Lab @ Louisiana State Univeristy</a>
+    <a class="navbar-brand" href="http://localhost:4000/">Mason Lab @ Louisiana State University</a>
 	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="http://localhost:4000/research">Research</a></li>
-		<li><a href="http://localhost:4000/people">People</a></li>
-		<li><a href="http://localhost:4000/publications">Publications</a></li>
-		<li><a href="http://localhost:4000/opportunities">Opportunities</a></li>
-		<li><a href="http://localhost:4000/labhandbook">Handbook</a></li>
-		<li><a href="http://localhost:4000/dei">DEI</a></li>
-	  </ul>
-	</div>
+	
+		<nav id="navbar" class="collapse navbar-collapse">
+			<ul class="nav navbar-nav navbar-right">
+				
+				
+					
+					
+					
+						<li class="">
+							<a href="http://localhost:4000/research/">Research</a>
+						</li>
+					
+				
+					
+					
+					
+						<li class="">
+							<a href="http://localhost:4000/publications/">Publications</a>
+						</li>
+					
+				
+					
+					
+					
+						<li class="dropdown ">
+							<a href="http://localhost:4000/people/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">People <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								
+									
+										<li>
+											<a href="http://localhost:4000/currentmembers/">Current Members</a>
+										</li>
+									
+								
+									
+										<li>
+											<a href="http://localhost:4000/alumni/">Alumni</a>
+										</li>
+									
+								
+							</ul>
+						</li>
+					
+				
+					
+					
+					
+						<li class="">
+							<a href="http://localhost:4000/opportunities/">Opportunities</a>
+						</li>
+					
+				
+			</ul>
+		</nav>
   </div>
 </div>
+
 
 
     <div class="container-fluid">
@@ -229,12 +311,12 @@
 
 <p><a name="gradteam"></a></p>
 <ul>
-  <li><em>Working Hours</em>: One benefit of academia is that we have flexible working hours that we can adjust to accomodate personal circadian rhythms and external responsibilities. That said, I expect that lab members will typically be available and on campus on working days (Monday through Friday, except national and university holidays) between 10:00 AM CST and 2:00 PM CST. Workloads can vary substantially from one week to the next depending on what stage a project is in or impending deadlines. There may be times when you may have to work evenings or on the weekend, but I also encourage you to take time off and to seek work-life balance. You may receive emails from me or see updates from me outside of normal working hours, but you are not expected to respond those actions outside of your normal working hours. If you are planning an extended absence for vacation or work-related travel, please check in with me first to make sure there are no conflicts.</li>
+  <li><em>Working Hours</em>: One benefit of academia is that we have flexible working hours that we can adjust to accomodate personal circadian rhythms and external responsibilities. That said, I expect that lab members will typically be available and on campus on working days (Monday through Friday, except national and university holidays) between 10:00 AM CST and 3:00 PM CST at an absolute minimum. Workloads can vary substantially from one week to the next depending on what stage a project is in or impending deadlines. There may be times when you may have to work evenings or on the weekend, but I also encourage you to take time off and to seek work-life balance. You may receive emails from me or see updates from me outside of normal working hours, but you are not expected to respond those actions outside of your normal working hours. If you are planning an extended absence for vacation or work-related travel, please let me know well in advance to make sure there are no conflicts.</li>
 </ul>
 
 <p><a name="gradteam"></a></p>
 <ul>
-  <li><em>Be a Team Player</em>: Participate in lab meetings, provide feedback on practice presentations, and help proof-read or provide feedback on projects and manuscripts. Participate in group fieldwork opportunities when they arise. Put real effort into these situations. Be on time, prepare for group discussions, and provide honest and helpful feedback in a constructive manner. Respond to emails and any other correspondence in a timely fashion (ideally within one working day, even if only to acknowledge receipt of the email).</li>
+  <li><em>Be a Team Player</em>: Participate in lab meetings, provide feedback on practice presentations, and help proof-read or provide feedback on projects and manuscripts. Participate in group fieldwork opportunities when they arise. Put real effort into these situations. Be on time, prepare for group discussions, and provide honest and helpful feedback in a constructive manner. Respond to emails and any other correspondence in a timely fashion (ideally within 1-2 working days, even if only to acknowledge receipt of the email).</li>
 </ul>
 
 <p><a name="gradprospective"></a></p>
@@ -244,27 +326,27 @@
 
 <p><a name="gradadvice"></a></p>
 <ul>
-  <li><em>Seek Advice</em>: I expect you to seek my advice on issues related to your professional and academic development (e.g., TAships, research directions, funding opportunities, conferences) and to seriously consider that advice. You should also consult your peers and near-peers. That said, exercise your own judgement in applying that advice to your personal situation. Ultimately, it’s your graduate education and you are the driver.</li>
+  <li><em>Seek Advice</em>: I expect you to seek my advice on issues related to your professional and academic development (e.g., TAships, research directions, funding opportunities, conferences) and to seriously consider that advice. You should also consult your peers and near-peers. That said, exercise your own judgement in applying all external advice to your personal situation. Ultimately, it’s your graduate education and you are the pilot.</li>
 </ul>
 
 <p><a name="gradread"></a></p>
 <ul>
-  <li><em>Read Widely</em>: Graduate students (especially first-year students) have lots of literature to quickly become familiar with. The only way to do this is to read widely and deeply. As a lab group, we often try to keep up with the literature collectively, but it is your responsibility to make time to read primary literature, review articles, and textbooks to fill gaps in your knowledge and generate new ideas. Reading is fun!</li>
+  <li><em>Read Widely</em>: Graduate students (especially first-year students) have lots of literature to quickly become familiar with. The only way to do this is to read widely and deeply. As a lab group, we often try to keep up with the literature collectively, but it is your responsibility to make time on your own to read primary literature, review articles, and textbooks to fill gaps in your knowledge and generate new ideas. Reading is fun!</li>
 </ul>
 
 <p><a name="grad1on1"></a></p>
 <ul>
-  <li><em>1-on-1 Meetings</em>: Prepare for our regular 1-on-1 meetings so that we can make the most of our limited time together. Complete follow-up items from prior meetings and if possible, send an agenda or list of meeting items in advance of the weekly meeting or come with one prepared.</li>
+  <li><em>1-on-1 Meetings</em>: Prepare for our regular 1-on-1 meetings so that we can make the most of our limited time together. I try to keep weekly meetings to an hour, but sometimes they may go over if we have a lot to cover. Complete follow-up items from prior meetings and if possible, send an agenda or list of meeting items in advance of the weekly meeting or come with one prepared.</li>
 </ul>
 
 <p><a name="grad1on1"></a></p>
 <ul>
-  <li><em>Manage Your Advisor</em>: You’re busy and your advisor is busy. Be proactive in managing your advisor: send reminders of deadlines and prior obligations, resend emails if no reply is received, take the initiative in managing the relationship.</li>
+  <li><em>Manage Your Advisor</em>: You’re busy and your advisor (me!) is busy. Be proactive in managing your advisor: send reminders of deadlines and prior obligations, resend emails if no reply is received, take the initiative in managing the relationship.</li>
 </ul>
 
 <p><a name="gradmentor"></a></p>
 <ul>
-  <li><em>Be a Mentor</em>: As you progress as a grad student, you will gain knowledge and skills that enable you to act as a mentor. I expect that you will seek opportunities to mentor undergraduate and possible younger graduate students in collaborative research projects.</li>
+  <li><em>Be a Mentor</em>: As you progress as a grad student, you will gain knowledge and skills that enable you to act as a mentor. I expect that you will seek opportunities to mentor undergraduate and possible more junior graduate students in collaborative research projects.</li>
 </ul>
 
 <p><a name="pdexpec"></a></p>
@@ -274,7 +356,7 @@
 
 <p><a name="postdocexistingprojects"></a></p>
 <ul>
-  <li><em>Finish Existing Projects</em>: All postdocs will arrive with existing projects that they are trying to finish. I encourage you to finish their existing work—your professional advancement and development is the overarching goal in joining my lab as a postdoc. However, your primary focus should be on current research in the Mason Lab and you should balance your time management as such.</li>
+  <li><em>Finish Existing Projects</em>: All postdocs will arrive with existing projects that they are trying to finish. I encourage you to finish existing work—your professional advancement and development is the ultimate goal in joining my lab as a postdoc. That said, your primary focus should be on current research in the Mason Lab and you should balance your time management as such.</li>
 </ul>
 
 <p><a name="postdocresearchfocus"></a></p>
@@ -295,7 +377,7 @@
 <p><a name="labmeetings"></a></p>
 <h2 id="lab-meetings">Lab Meetings</h2>
 
-<p>Mason Lab meetings are currently Wednesdays 3:00 – 4:30 pm CST. Lab Meetings are our time to get together and work toward common goals. We typically rotate from member to member taking the lead on what we will focus on that week, with input from other lab members and the PI. Activities can include reading especially challenging or dense papers together, editing and revising manuscripts or grant proposals, discussing ethics in the field, practice talks or seminars, mini workshops on technical skills or new programs, presentations of new data, or something else!</p>
+<p>Mason Lab meetings are currently Wednesdays 3:30 – 5:00 pm CST. Lab Meetings are our time to get together and work toward common goals. We typically rotate from member to member taking the lead on what we will focus on that week, with input from other lab members and the PI. Activities can include reading especially challenging or dense papers together, editing and revising manuscripts or grant proposals, discussing ethics in the field, practice talks or seminars, mini workshops on technical skills or new programs, presentations of new data, or something else!</p>
 
 <p><a name="seminars"></a></p>
 <h2 id="seminars">Seminars</h2>
@@ -336,7 +418,7 @@
 <p><a name="curatorialwork"></a></p>
 <h2 id="curatorial-work">Curatorial Work</h2>
 
-<p>It is expected that each Mason Lab member will continue to the maintenance and growth of the bird collection at the LSUMNS. Each graduate student will spend at least one year as a curatorial assistant, where they will work with PI Mason and the collections managers on a variety of tasks, including specimen preparation, accessioning new specimens, processing loans, collections upkeep, and more.</p>
+<p>It is expected that each Mason Lab member will continue to the maintenance and growth of the bird collection at the LSUMNS. Each graduate student will spend at least one semester as a curatorial assistant, where they will work with PI Mason and the collections managers on a variety of tasks, including specimen preparation, accessioning new specimens, processing loans, collections upkeep, and more.</p>
 
 <p>Stay tuned for more guidelines and policy on working in the collections.</p>
 
@@ -355,7 +437,7 @@
 <p><a name="reproducibleresearch"></a></p>
 <h2 id="reproducible-research">Reproducible Research</h2>
 
-<p>Reproducibility is an essential component of successful research. We are supportive of producing openly available, reproducible workflows. Doing so benefits us by</p>
+<p>Reproducibility is an essential component of successful research. We are supportive of producing openly available, reproducible workflows. Doing so benefits us by allowing us to retrace our steps and providing building blocks for future research.</p>
 
 <h4 id="documenting-workflows">Documenting Workflows</h4>
 
@@ -440,3 +522,4 @@
   </body>
 
 </html>
+

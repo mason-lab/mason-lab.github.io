@@ -28,6 +28,8 @@
 
 
 
+  
+
 <style>
 .button {
   border: none;
@@ -64,6 +66,41 @@
   color: white;
 }
 
+.dropbtn {
+  color: black;
+  padding: 16px 32px;
+  font-size: 16px;
+  margin: 4px 2px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {color: black; background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: white;}
+
 </style>
 </head>
 
@@ -80,20 +117,65 @@
 		<span class="icon-bar"></span>
 	  </button>
 	
-    <a class="navbar-brand" href="http://localhost:4000/">Mason Lab @ Louisiana State Univeristy</a>
+    <a class="navbar-brand" href="http://localhost:4000/">Mason Lab @ Louisiana State University</a>
 	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="http://localhost:4000/research">Research</a></li>
-		<li><a href="http://localhost:4000/people">People</a></li>
-		<li><a href="http://localhost:4000/publications">Publications</a></li>
-		<li><a href="http://localhost:4000/opportunities">Opportunities</a></li>
-		<li><a href="http://localhost:4000/labhandbook">Handbook</a></li>
-		<li><a href="http://localhost:4000/dei">DEI</a></li>
-	  </ul>
-	</div>
+	
+		<nav id="navbar" class="collapse navbar-collapse">
+			<ul class="nav navbar-nav navbar-right">
+				
+				
+					
+					
+					
+						<li class="">
+							<a href="http://localhost:4000/research/">Research</a>
+						</li>
+					
+				
+					
+					
+					
+						<li class="active">
+							<a href="http://localhost:4000/publications/">Publications</a>
+						</li>
+					
+				
+					
+					
+					
+						<li class="dropdown ">
+							<a href="http://localhost:4000/people/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">People <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								
+									
+										<li>
+											<a href="http://localhost:4000/currentmembers/">Current Members</a>
+										</li>
+									
+								
+									
+										<li>
+											<a href="http://localhost:4000/alumni/">Alumni</a>
+										</li>
+									
+								
+							</ul>
+						</li>
+					
+				
+					
+					
+					
+						<li class="">
+							<a href="http://localhost:4000/opportunities/">Opportunities</a>
+						</li>
+					
+				
+			</ul>
+		</nav>
   </div>
 </div>
+
 
 
     <div class="container-fluid">
@@ -102,6 +184,516 @@
 <center>
 		<a href="https://doi.org/10.1093/auk/ukaa060"><img src="/resources/journalcovers/AukCoverMason2020.png" style="width:200px" /></a>
 </center>
+</html>
+
+<p>Author affiliations are as follows: <strong>PI in bold</strong>, <b><span style="color:#FDD023">undergrad students in gold, <span style="color:#461D7C">grad students in purple, <span style="color:#06BC40">postdocs in green.</span></span></span></b></p>
+
+<style>
+
+.hangingindent {
+	padding-left: 24px ;
+	text-indent: -24px ;
+}
+
+.hangingindentl10 {
+	padding-left: 16px ;
+	text-indent: -16px ;
+}
+
+/* .form-group controls spacing between rows for the bootstrap grid format */
+.form-group {
+	margin-bottom: 0px;
+}
+
+.container2{
+	display: grid;
+	grid-template: auto / 80% 5%;
+	grid-auto-rows: min-content;
+	grid-gap: 0px;
+	min.width:0;
+	min.height:0;
+}
+
+.item1{
+	grid-column-start: 1;
+	grid-column-end: auto;
+	grid-row-start: 1;
+}
+
+.item2{
+	justify-self: stretch;
+	grid-row-start: 1;
+	grid-column-start: 3;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	display: block;
+	clear: both;
+}
+
+.icon {
+  position: relative;
+  /* Adjust these values accordingly */
+  top: -12px;
+  left: -20px;
+}
+
+</style>
+
+<html class="no-js" lang="en">
+
+	<div class="container2">
+		<div class="item1">	
+			 <div class="hangingindent"> 
+
+			<span class="text-muted">39.</span>
+			<span class="author pi">NA Mason</span>, <span class="author ">EA Ridell</span>, <span class="author undergradauthor">FG Romero</span>, <span class="author ">C Cicero</span>, <span class="author ">RCK Bowie</span>
+			(In press).
+			Plumage balances camouflage and thermoregulation in Horned Larks (Eremophila alpestris)
+			<i> The American Naturalist </i>
+			XX:
+			XX.
+			</div>	
+		</div>
+		<div class="item2">
+			
+							
+							
+				<a href="../resources/pdfs/Mason et al (2022) The American Naturalist.pdf"><span style="font-size: 25px; color: Black;"><i class="fas fa-file"></i></span> </a> 			
+			
+							
+				<a href="https://doi.org/10.1086/722560"><span style="font-size: 25px; color: Black;"><i class="fas fa-link"></i></span> </a> 			
+							
+			
+				<a href="https://doi.org/10.6078/D1ZX4S"><span style="font-size: 25px; color: Black;"><i class="fas fa-hdd"></i></span> </a> 			
+							
+							
+			
+		</div>
+	</div>
+
+</html>
+
+<style>
+
+.hangingindent {
+	padding-left: 24px ;
+	text-indent: -24px ;
+}
+
+.hangingindentl10 {
+	padding-left: 16px ;
+	text-indent: -16px ;
+}
+
+/* .form-group controls spacing between rows for the bootstrap grid format */
+.form-group {
+	margin-bottom: 0px;
+}
+
+.container2{
+	display: grid;
+	grid-template: auto / 80% 5%;
+	grid-auto-rows: min-content;
+	grid-gap: 0px;
+	min.width:0;
+	min.height:0;
+}
+
+.item1{
+	grid-column-start: 1;
+	grid-column-end: auto;
+	grid-row-start: 1;
+}
+
+.item2{
+	justify-self: stretch;
+	grid-row-start: 1;
+	grid-column-start: 3;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	display: block;
+	clear: both;
+}
+
+.icon {
+  position: relative;
+  /* Adjust these values accordingly */
+  top: -12px;
+  left: -20px;
+}
+
+</style>
+
+<html class="no-js" lang="en">
+
+	<div class="container2">
+		<div class="item1">	
+			 <div class="hangingindent"> 
+
+			<span class="text-muted">38.</span>
+			<span class="author ">RT Chesser</span>, <span class="author ">SM Billerman</span>, <span class="author ">KJ Burns</span>, <span class="author ">C Cicero</span>, <span class="author ">JL Dunn</span>, <span class="author ">BE Hernández-Baños</span>, <span class="author ">RA Jiménez</span>, <span class="author ">AW Kratter</span>, <span class="author pi">NA Mason</span>, <span class="author ">PC Rasmussen</span>, <span class="author ">JV Remsen</span>, <span class="author ">DF Stotz</span>, <span class="author ">K Winker</span>
+			(2022).
+			Sixty-third Supplement to the American Ornithological Society's Check-list of North American Birds.
+			<i> Ornithology </i>
+			139:
+			ukac020.
+			</div>	
+		</div>
+		<div class="item2">
+			
+							
+							
+				<a href="../resources/pdfs/Chesser et al (2022) Ornithology.pdf"><span style="font-size: 25px; color: Black;"><i class="fas fa-file"></i></span> </a> 			
+			
+							
+				<a href="https://doi.org/10.1093/ornithology/ukac020"><span style="font-size: 25px; color: Black;"><i class="fas fa-link"></i></span> </a> 			
+							
+			
+		</div>
+	</div>
+
+</html>
+
+<style>
+
+.hangingindent {
+	padding-left: 24px ;
+	text-indent: -24px ;
+}
+
+.hangingindentl10 {
+	padding-left: 16px ;
+	text-indent: -16px ;
+}
+
+/* .form-group controls spacing between rows for the bootstrap grid format */
+.form-group {
+	margin-bottom: 0px;
+}
+
+.container2{
+	display: grid;
+	grid-template: auto / 80% 5%;
+	grid-auto-rows: min-content;
+	grid-gap: 0px;
+	min.width:0;
+	min.height:0;
+}
+
+.item1{
+	grid-column-start: 1;
+	grid-column-end: auto;
+	grid-row-start: 1;
+}
+
+.item2{
+	justify-self: stretch;
+	grid-row-start: 1;
+	grid-column-start: 3;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	display: block;
+	clear: both;
+}
+
+.icon {
+  position: relative;
+  /* Adjust these values accordingly */
+  top: -12px;
+  left: -20px;
+}
+
+</style>
+
+<html class="no-js" lang="en">
+
+	<div class="container2">
+		<div class="item1">	
+			 <div class="hangingindent"> 
+
+			<span class="text-muted">37.</span>
+			<span class="author undergradauthor">ET Yang</span>, <span class="author ">AE Jahn</span>, <span class="author pi">NA Mason</span>
+			(2022).
+			Morphology of migration: associations between wing shape, bill morphology and migration in kingbirds (<i>Tyrannus</i>).
+			<i> The Wilson Journal of Ornithology </i>
+			134:
+			193–204.
+			</div>	
+		</div>
+		<div class="item2">
+			
+							
+							
+				<a href="../resources/pdfs/Yang et al (2022) The Wilson Journal of Ornithology.pdf"><span style="font-size: 25px; color: Black;"><i class="fas fa-file"></i></span> </a> 			
+			
+							
+				<a href="https://doi.org/10.1676/20-00136"><span style="font-size: 25px; color: Black;"><i class="fas fa-link"></i></span> </a> 			
+							
+			
+		</div>
+	</div>
+
+</html>
+
+<style>
+
+.hangingindent {
+	padding-left: 24px ;
+	text-indent: -24px ;
+}
+
+.hangingindentl10 {
+	padding-left: 16px ;
+	text-indent: -16px ;
+}
+
+/* .form-group controls spacing between rows for the bootstrap grid format */
+.form-group {
+	margin-bottom: 0px;
+}
+
+.container2{
+	display: grid;
+	grid-template: auto / 80% 5%;
+	grid-auto-rows: min-content;
+	grid-gap: 0px;
+	min.width:0;
+	min.height:0;
+}
+
+.item1{
+	grid-column-start: 1;
+	grid-column-end: auto;
+	grid-row-start: 1;
+}
+
+.item2{
+	justify-self: stretch;
+	grid-row-start: 1;
+	grid-column-start: 3;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	display: block;
+	clear: both;
+}
+
+.icon {
+  position: relative;
+  /* Adjust these values accordingly */
+  top: -12px;
+  left: -20px;
+}
+
+</style>
+
+<html class="no-js" lang="en">
+
+	<div class="container2">
+		<div class="item1">	
+			 <div class="hangingindent"> 
+
+			<span class="text-muted">36.</span>
+			<span class="author postdocauthor">SB Shakya</span>, <span class="author ">CY Wang-Claypool</span>, <span class="author ">C Cicero</span>, <span class="author ">RCK Bowie</span>, <span class="author pi">NA Mason</span>
+			(2022).
+			Neo-sex chromosome evolution and phenotypic evolution across an elevational gradient in Horned Larks (<i>Eremophila alpestris</i>).
+			<i> Molecular Ecology </i>
+			31:
+			1783-1799.
+			</div>	
+		</div>
+		<div class="item2">
+			
+							
+				<a href="https://doi.org/10.1111/mec.16357"><span style="font-size: 25px; color: Black;"><i class="fas fa-link"></i></span> </a> 			
+							
+			
+							
+							
+				<a href="../resources/pdfs/Shakya et al (2022) Molecular Ecology.pdf"><span style="font-size: 25px; color: Black;"><i class="fas fa-file"></i></span> </a> 			
+			
+				<a href=""><span style="font-size: 25px; color: Black;"><i class="fas fa-hdd"></i></span> </a> 			
+							
+							
+			
+		</div>
+	</div>
+
+</html>
+
+<style>
+
+.hangingindent {
+	padding-left: 24px ;
+	text-indent: -24px ;
+}
+
+.hangingindentl10 {
+	padding-left: 16px ;
+	text-indent: -16px ;
+}
+
+/* .form-group controls spacing between rows for the bootstrap grid format */
+.form-group {
+	margin-bottom: 0px;
+}
+
+.container2{
+	display: grid;
+	grid-template: auto / 80% 5%;
+	grid-auto-rows: min-content;
+	grid-gap: 0px;
+	min.width:0;
+	min.height:0;
+}
+
+.item1{
+	grid-column-start: 1;
+	grid-column-end: auto;
+	grid-row-start: 1;
+}
+
+.item2{
+	justify-self: stretch;
+	grid-row-start: 1;
+	grid-column-start: 3;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	display: block;
+	clear: both;
+}
+
+.icon {
+  position: relative;
+  /* Adjust these values accordingly */
+  top: -12px;
+  left: -20px;
+}
+
+</style>
+
+<html class="no-js" lang="en">
+
+	<div class="container2">
+		<div class="item1">	
+			 <div class="hangingindent"> 
+
+			<span class="text-muted">35.</span>
+			<span class="author postdocauthor">MP MacPherson</span>, <span class="author ">AE Jahn</span>, <span class="author pi">NA Mason</span>
+			(2022).
+			Morphology of migration: associations between wing shape, bill morphology and migration in kingbirds (<i>Tyrannus</i>).
+			<i> Biological Journal of the Linnean Society </i>
+			135:
+			71–83.
+			</div>	
+		</div>
+		<div class="item2">
+			
+							
+							
+				<a href="../resources/pdfs/Macpherson et al (2022) Biological Journal of the Linnean Society.pdf"><span style="font-size: 25px; color: Black;"><i class="fas fa-file"></i></span> </a> 			
+			
+							
+				<a href="https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blab123/6406985?login=true"><span style="font-size: 25px; color: Black;"><i class="fas fa-link"></i></span> </a> 			
+							
+			
+				<a href="https://github.com/mmacphe/Tyrannus_morphology"><span style="font-size: 25px; color: Black;"><i class="fas fa-hdd"></i></span> </a> 			
+							
+							
+			
+		</div>
+	</div>
+
+</html>
+
+<style>
+
+.hangingindent {
+	padding-left: 24px ;
+	text-indent: -24px ;
+}
+
+.hangingindentl10 {
+	padding-left: 16px ;
+	text-indent: -16px ;
+}
+
+/* .form-group controls spacing between rows for the bootstrap grid format */
+.form-group {
+	margin-bottom: 0px;
+}
+
+.container2{
+	display: grid;
+	grid-template: auto / 80% 5%;
+	grid-auto-rows: min-content;
+	grid-gap: 0px;
+	min.width:0;
+	min.height:0;
+}
+
+.item1{
+	grid-column-start: 1;
+	grid-column-end: auto;
+	grid-row-start: 1;
+}
+
+.item2{
+	justify-self: stretch;
+	grid-row-start: 1;
+	grid-column-start: 3;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	display: block;
+	clear: both;
+}
+
+.icon {
+  position: relative;
+  /* Adjust these values accordingly */
+  top: -12px;
+  left: -20px;
+}
+
+</style>
+
+<html class="no-js" lang="en">
+
+	<div class="container2">
+		<div class="item1">	
+			 <div class="hangingindent"> 
+
+			<span class="text-muted">34.</span>
+			<span class="author ">ER Funk</span>, <span class="author pi">NA Mason</span>, <span class="author ">AE Jahn</span>, <span class="author ">S Pálsson</span>, <span class="author ">T Albrecht</span>, <span class="author ">JA Johnson</span>, <span class="author ">SA Taylor</span>
+			(2021).
+			A supergene underlies linked variation in color and morphology in a Holarctic songbird.
+			<i> Nature Communications </i>
+			12:
+			6833.
+			</div>	
+		</div>
+		<div class="item2">
+			
+							
+							
+				<a href="../resources/pdfs/Funk et al (2021) Nature Communications.pdf"><span style="font-size: 25px; color: Black;"><i class="fas fa-file"></i></span> </a> 			
+			
+							
+				<a href="https://doi.org/10.1038/s41467-021-27173-z"><span style="font-size: 25px; color: Black;"><i class="fas fa-link"></i></span> </a> 			
+							
+			
+				<a href="https://www.nature.com/articles/s41467-021-27173-z#data-availability"><span style="font-size: 25px; color: Black;"><i class="fas fa-hdd"></i></span> </a> 			
+							
+							
+			
+		</div>
+	</div>
+
 </html>
 
 <style>
@@ -578,18 +1170,18 @@
 
 			<span class="text-muted">28.</span>
 			<span class="author pi">NA Mason</span>, <span class="author ">P Unitt</span>, <span class="author ">JP Sparks</span>
-			(2020).
+			(2021).
 			Agriculture induces isotopic shifts and niche contraction in Horned Larks (Eremophila alpestris) of the Colorado Desert.
 			<i> Journal of Ornithology </i>
-			
-			
+			162:
+			381–393.
 			</div>	
 		</div>
 		<div class="item2">
 			
 							
 							
-				<a href="../resources/pdfs/Mason et al (2020) Journal of Ornithology"><span style="font-size: 25px; color: Black;"><i class="fas fa-file"></i></span> </a> 			
+				<a href="../resources/pdfs/Mason et al (2021) Journal of Ornithology"><span style="font-size: 25px; color: Black;"><i class="fas fa-file"></i></span> </a> 			
 			
 							
 				<a href="https://doi.org/10.1007/s10336-020-01834-0"><span style="font-size: 25px; color: Black;"><i class="fas fa-link"></i></span> </a> 			
@@ -2876,3 +3468,4 @@
   </body>
 
 </html>
+

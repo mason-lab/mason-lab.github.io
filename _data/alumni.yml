@@ -1,0 +1,22 @@
+- name: "Subir B. Shakya"
+  title: "Postdoctoral Researcher"
+  picture: SubirHeadshot.png
+  bio: "Subir is interested in the genetic underpinnings of phenotypes (especially color) in birds. Subir is particularly interested in integrating genetic data with biochemical, ecological, morphological, and spatial data to get a much better understanding of the mechanisms of variation. He is also interested in the phylogeny, biogeography, and natural history of birds, particularly birds from the Old World."
+  labels:
+    - type: website
+      website: http://subir.com.np/
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?user=ETGvbj0AAAAJ&hl=en
+  
+- name: "Maggie P. MacPherson"
+  title: "Postdoctoral Researcher"
+  picture: MaggieMacPhersonHeadshot.jpeg
+  bio: "Maggie studies what shapes species distributions, mainly in birds. They have a particular interest in improving our understanding of the drivers of range dynamics in migratory species. Their recent research includes building seasonal species distribution models using citizen science datasets and improving our ability to identify umbrella taxa and to understand what shapes ranges using Bayesian belief networks. Their ultimate research goal is to contribute to research that improves our ability to protect wildlife across rapidly changing landscapes by testing the relative roles of ecological and evolutionary processes that contribute to patterns in geographic range limits."
+  labels:
+    - type: website
+      website: http://maggiepmacpherson.com/
+    - type: twitter
+      twitter: https://twitter.com/B1rdz_Lady
+    - type: googlescholar
+      googlescholar: https://scholar.google.com/citations?user=o2F7SKEAAAAJ&hl=en
+ 

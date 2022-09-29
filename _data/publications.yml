@@ -1,3 +1,71 @@
+- title: "Plumage balances camouflage and thermoregulation in Horned Larks (Eremophila alpestris)"
+  key: holacamothermo
+  authors:
+    - name: NA Mason
+      type: pi
+    - name: EA Ridell
+    - name: FG Romero
+      type: undergradauthor
+    - name: C Cicero
+    - name: RCK Bowie
+  date: In press
+  journal: "The American Naturalist"
+  volume: XX
+  pages: XX
+  labels:
+    - type: pdf
+      pdf: "Mason et al (2022) The American Naturalist.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1086/722560"  
+    - type: data
+      data: "https://doi.org/10.6078/D1ZX4S" 
+      
+- title: "Sixty-third Supplement to the American Ornithological Society's
+Check-list of North American Birds."
+  key: sixtythirdsupplement
+  authors:
+    - name: RT Chesser
+    - name: SM Billerman
+    - name: KJ Burns
+    - name: C Cicero
+    - name: JL Dunn
+    - name: BE Hernández-Baños
+    - name: RA Jiménez
+    - name: AW Kratter
+    - name: NA Mason
+      type: pi
+    - name: PC Rasmussen
+    - name: JV Remsen
+    - name: DF Stotz
+    - name: K Winker 
+  date: 2022
+  journal: "Ornithology"
+  volume: 139
+  pages: ukac020
+  labels:
+    - type: pdf
+      pdf: "Chesser et al (2022) Ornithology.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1093/ornithology/ukac020"    
+
+- title: "Morphology of migration: associations between wing shape, bill morphology and migration in kingbirds (<i>Tyrannus</i>)."
+  key: morphologymigration
+  authors:
+    - name: ET Yang
+      type: undergradauthor
+    - name: AE Jahn
+    - name: NA Mason
+      type: pi
+  date: 2022
+  journal: "The Wilson Journal of Ornithology"
+  volume: 134
+  pages: 193–204
+  labels:
+    - type: pdf
+      pdf: "Yang et al (2022) The Wilson Journal of Ornithology.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1676/20-00136"    
+      
 - title: "Neo-sex chromosome evolution and phenotypic evolution across an elevational gradient in Horned Larks (<i>Eremophila alpestris</i>)."
   key: larkssierranevada
   authors:
@@ -10,11 +78,15 @@
       type: pi
   date: 2022
   journal: "Molecular Ecology"
-  volume: XX
-  pages: XX–XX
+  volume: 31
+  pages: 1783-1799
   labels:
     - type: doi
       doi: "https://doi.org/10.1111/mec.16357"    
+    - type: pdf
+      pdf: "Shakya et al (2022) Molecular Ecology.pdf"
+    - type: data
+      data: 
       
 - title: "Morphology of migration: associations between wing shape, bill morphology and migration in kingbirds (<i>Tyrannus</i>)."
   key: morphologymigration
