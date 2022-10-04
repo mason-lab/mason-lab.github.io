@@ -47,12 +47,12 @@ Check-list of North American Birds."
     - type: doi
       doi: "https://doi.org/10.1093/ornithology/ukac020"    
 
-- title: "Morphology of migration: associations between wing shape, bill morphology and migration in kingbirds (<i>Tyrannus</i>)."
-  key: morphologymigration
+- title: "Dorsal Color Variation Among Subspecies of the Oregon Dark-Eyed Junco (<i>Junco hyemalis [oreganus]</i>) Group)."
+  key: juncocolor
   authors:
     - name: ET Yang
       type: undergradauthor
-    - name: AE Jahn
+    - name: P Unitt
     - name: NA Mason
       type: pi
   date: 2022
