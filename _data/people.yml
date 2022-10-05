@@ -21,6 +21,8 @@
   picture: Ocampo_photo.jpeg
   bio: "Diego has broad interest in understanding the evolutionary process that has led to diverse bird morphs and behaviors, especially in Neotropical birds. More specifically, Diego uses museum-based research and bioinformatic tools to look at the population structure, the genomic architecture of adaptive traits, as well as the behavioral and ecological factors that drive the divergence of phenotypes. Diego is currently focusing on the mode and tempo of trait evolution across the genus Sporophila."
   labels:
+    - type: twitter
+      twitter: https://twitter.com/Ocampo_D1E60
     - type: website
       website: https://ocampodiego.weebly.com/
     - type: orcid
@@ -43,6 +45,8 @@
   picture: SamanthaHeadshotSquare.jpg
   bio: "Graduating from Mansfield University of Pennsylvania with a Bachelor of Science  in General Biology, Samantha has conducted research on avian brood parasitism and gregariousness, completing two internships through the University of Virginia and the Smithsonian National Museum of Natural History. Her current research interests encompass the impact of climate change on avian evolution and conservation; the origin, structure, and function of avian iridescence; and the potential biomimetic technologies stemming from avian feather structure."
   labels:
+    - type: website
+      website: https://slrutledge.wordpress.com/
     - type: twitter
       twitter: https://twitter.com/slrutledge27
     - type: googlescholar
