@@ -18,7 +18,31 @@
       doi: "https://doi.org/10.1086/722560"  
     - type: data
       data: "https://doi.org/10.6078/D1ZX4S" 
-      
+
+- title: "Deep ecomorphological and genetic divergence in Steller's Jays (<i>Cyanocitta stelleri</i> , Aves: Corvidae)"
+  key: stellersjay
+  authors:
+    - name: C Cicero
+    - name: NA Mason
+      type: pi
+    - name: Z Oong
+    - name: P Title
+    - name: M Morales
+    - name: K Feldheim
+    - name: M Koo
+    - name: RCK Bowie    
+  date: 2022
+  journal: "Ecology and Evolution"
+  volume: 12
+  pages: e9517
+  labels:
+    - type: pdf
+      pdf: "Mason et al (2022) The American Naturalist.pdf"
+    - type: doi
+      doi: "https://doi.org/10.1002/ece3.9517"  
+    - type: data
+      data: "https://doi.org/10.6078/D14Q5N" 
+
 - title: "Sixty-third Supplement to the American Ornithological Society's
 Check-list of North American Birds."
   key: sixtythirdsupplement
@@ -113,7 +137,6 @@ Check-list of North American Birds."
     - name: ER Funk
     - name: NA Mason
       type: pi
-    - name: AE Jahn
     - name: S Pálsson
     - name: T Albrecht
     - name: JA Johnson
