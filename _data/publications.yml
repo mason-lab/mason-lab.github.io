@@ -1,3 +1,89 @@
+- title: "Towards a comparative framework for studies of altitudinal migration"
+  key: altmigration
+  authors:
+    - name: D Vander Pluym
+      type: gradauthor
+    - name: NA Mason
+      type: pi
+  date: 2024
+  journal: "Ecology and Evolution"
+  volume: 14
+  pages: e70240
+  labels:
+    - type: pdf
+      pdf: "Vander Pluym & Mason (2024) Ecology and Evolution"
+    - type: doi
+      doi: "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002318" 
+      
+- title: "Sixty-fifth Supplement to the American Ornithological Society’s Check-list of North American Birds"
+  key: sixtyfifthsupplement
+  authors:
+    - name: RT Chesser
+    - name: SM Billerman
+    - name: KJ Burns
+    - name: C Cicero
+    - name: JL Dunn
+    - name: BE Hernández-Baños
+    - name: RA Jiménez
+    - name: O Johnson
+    - name: AW Kratter
+    - name: NA Mason
+      type: pi
+    - name: PC Rasmussen
+    - name: JV Remsen
+  date: 2024
+  journal: "Ornithology"
+  volume: 141
+  pages: ukae019
+  labels:
+    - type: pdf
+      pdf: "Chesser et al (2024) Ornithology.pdf"
+    - type: doi
+      doi: "https://academic.oup.com/auk/article/141/3/ukae019/7716004"  
+      
+- title: "Specimen collection is essential for modern science"
+  key: nachmancomment
+  authors:
+    - name: M Nachman
+    - name: NA Mason
+      type: pi
+    - name: Over 100 Co Authors
+  date: 2023
+  journal: "PLoS Biology"
+  volume: 21
+  pages: e3002318
+  labels:
+    - type: pdf
+      pdf: "Nachman et al (2023) PLoS Biology.pdf"
+    - type: doi
+      doi: "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002318"  
+
+- title: "Sixty-fourth Supplement to the American Ornithological Society’s Check-list of North American Birds"
+  key: sixtyfourthsupplement
+  authors:
+    - name: RT Chesser
+    - name: SM Billerman
+    - name: KJ Burns
+    - name: C Cicero
+    - name: JL Dunn
+    - name: BE Hernández-Baños
+    - name: RA Jiménez
+    - name: AW Kratter
+    - name: NA Mason
+      type: pi
+    - name: PC Rasmussen
+    - name: JV Remsen
+    - name: K Winker 
+  date: 2023
+  journal: "Ornithology"
+  volume: 140
+  pages: ukad023
+  labels:
+    - type: pdf
+      pdf: "Chesser et al (2023) Ornithology.pdf"
+    - type: doi
+      doi: "https://academic.oup.com/auk/article/140/3/ukad023/7220602"  
+      
 - title: "Plumage balances camouflage and thermoregulation in Horned Larks (Eremophila alpestris)"
   key: holacamothermo
   authors:
@@ -7,17 +93,17 @@
     - name: FG Romero
     - name: C Cicero
     - name: RCK Bowie
-  date: In press
+  date: 2023
   journal: "The American Naturalist"
-  volume: XX
-  pages: XX
+  volume: 201
+  pages: 2
   labels:
     - type: pdf
-      pdf: "Mason et al (2022) The American Naturalist.pdf"
+      pdf: "Mason et al (2023) The American Naturalist.pdf"
     - type: doi
       doi: "https://doi.org/10.1086/722560"  
     - type: data
-      data: "https://doi.org/10.6078/D1ZX4S" 
+      data: "https://datadryad.org/stash/dataset/doi:10.6078/D1ZX4S" 
 
 - title: "Deep ecomorphological and genetic divergence in Steller's Jays (<i>Cyanocitta stelleri</i> , Aves: Corvidae)"
   key: stellersjay
