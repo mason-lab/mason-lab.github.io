@@ -16,25 +16,6 @@
     - type: googlescholar
       googlescholar: https://scholar.google.com/citations?hl=en&user=UU_RqEkAAAAJ&view_op=list_works&sortby=pubdate
 
-- name: "Diego Ocampo"
-  title: "Postdoctoral Researcher"
-  picture: Ocampo_photo.jpeg
-  bio: "Diego has broad interest in understanding the evolutionary process that has led to diverse bird morphs and behaviors, especially in Neotropical birds. More specifically, Diego uses museum-based research and bioinformatic tools to look at the population structure, the genomic architecture of adaptive traits, as well as the behavioral and ecological factors that drive the divergence of phenotypes. Diego is currently focusing on the mode and tempo of trait evolution across the genus Sporophila."
-  labels:
-    - type: twitter
-      twitter: https://x.com/Ocampo_D1E60
-    - type: website
-      website: https://ocampodiego.weebly.com/
-    - type: orcid
-      orcid: https://orcid.org/0000-0002-7411-2027
-    - type: googlescholar
-      googlescholar: https://scholar.google.com/citations?user=ZUB9sRsAAAAJ&hl=en&oi=ao
-  
-- name: "Ashish Jha"
-  title: "Postdoctoral Researcher"
-  picture: Ashish Jha_WII.jpeg
-  bio: "Ashish is a an Engineer turned Ornithologist. After his UG and PG in Biotechnology, Dr. Jha pursued a PhD in Ornithology. His doctoral research was centered on southern India endemic, and globally threatened, Yellow-throated Bulbul (Pycnonotus xantholaemus), more specifically the biogeographic history, population connectivity, and habitat suitability model of this species. Ashish has joined the Mason Lab on a 9-month Fullbright Fellowship and will be testing the core-periphery hypothesis with North American birds."
-                
 - name: "David Vander Pluym"
   title: "PhD Student"
   picture: Picture13.jpg
@@ -76,14 +57,13 @@
       twitter: https://x.com/harveyyamanda
 
 - name: "Brett Kincade"
-  title: "Postbaccalaureate Scholar"
+  title: "PhD Student"
   picture: kincade.jpg
-  bio: "Brett is interested in phylogenetics and the morphological and genetic changes o  birds over time. He is interested in comparative phylogeography, integrative taxonomy, and avian systematics. A New Orleans native, Brett has joined the Mason Lab as a postbaccalaureate scholar through the NSF LAGniAppE program, during which he is studying the phylogeography of Geospizopsis tanagers."
-  
-- name: "Melissa Salazar"
-  title: "Postbaccalaureate Scholar"
-  picture: salazar.jpg
-  bio: "Melissa is interested in ornithology, ecotoxicology, and urban ecology. Originally from Arlington, Melissa joined the Mason Lab via the NSF LAGniAppE program and will be studying trends in heavy metal contamination in King and Clapper Rails across an ecological gradient."
+  bio: "Brett is interested in comparative phylogeography, integrative taxonomy, and avian systematics. A New Orleans native, Brett originally joined the Mason Lab as a postbaccalaureate scholar through the NSF LAGniAppE program, during which he studied the phylogeography of Geospizopsis tanagers. He is continuing his work on the Geospizopsis system and other Neotropical birds."
 
-    
+- name: "Emma Powers"
+  title: "LAGNiAppE Postbaccalaureate Scholar"
+  picture: e_powers.png
+  bio: "Emma is interested in the ecology, evolution, and behavior of bats. For their postbac project, Emma is studying ecogeographic associations between solar reflectance, plumage microscructures, morphometrics, and climate in the Common Raven."
+
      
